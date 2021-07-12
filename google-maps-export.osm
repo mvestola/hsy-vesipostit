@@ -2,8 +2,7 @@
 <osm xmlns:xs="http://www.w3.org/2001/XMLSchema"
      xmlns:kml="http://www.opengis.net/kml/2.2"
      version="0.6"
-     upload="false"
-     generator="JOSM">
+     upload="false">
    <node action="modify" id="-101753" lat="60.323763" lon="25.092801">
       <tag k="name" v="HSY vesiposti: Mielikintie 11"/>
       <tag k="addr:city" v="Vantaa"/>
@@ -109,7 +108,7 @@
       <tag k="name" v="HSY vesiposti: Kimalaiskuja 1"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP581"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -142,7 +141,7 @@
       <tag k="name" v="HSY vesiposti: Veljestentie 7"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP580"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -175,7 +174,7 @@
       <tag k="name" v="HSY vesiposti: Aapontie 1"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP579"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -242,7 +241,7 @@
       <tag k="name" v="HSY vesiposti: Ylä-Malmin tori 0"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP577"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -309,7 +308,7 @@
       <tag k="name" v="HSY vesiposti: Puolimatkanpolku 13"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP575"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -409,7 +408,7 @@
       <tag k="name" v="HSY vesiposti: Niittyläntie 12"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP572"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -577,7 +576,7 @@
       <tag k="name" v="HSY vesiposti: Kauppatori 0"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP567"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -610,7 +609,7 @@
       <tag k="name" v="HSY vesiposti: Fredrikintori 0"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP565"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -643,7 +642,7 @@
       <tag k="name" v="HSY vesiposti: Sandelsinkatu 1"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP564"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -676,7 +675,7 @@
       <tag k="name" v="HSY vesiposti: Hiekkarannantie 15"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP563"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -709,7 +708,7 @@
       <tag k="name" v="HSY vesiposti: Pohjoiskaari 25"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP562"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -775,7 +774,7 @@
       <tag k="name" v="HSY vesiposti: Hepokalliontie 25"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP560"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -808,7 +807,7 @@
       <tag k="name" v="HSY vesiposti: Takilatie 4"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP559"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -841,7 +840,7 @@
       <tag k="name" v="HSY vesiposti: Iso Mustasaari C45"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP558"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="unspecified"/>
@@ -874,7 +873,7 @@
       <tag k="name" v="HSY vesiposti: Iso Mustasaari C31"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP557"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="unspecified"/>
@@ -940,7 +939,7 @@
       <tag k="name" v="HSY vesiposti: Koivurinne 9b"/>
       <tag k="addr:city" v="Vantaa"/>
       <tag k="ref" v="VVP539"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="black"/>
       <tag k="handle" v="twist_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1073,7 +1072,7 @@
       <tag k="name" v="HSY vesiposti: Ylästöntie 71"/>
       <tag k="addr:city" v="Vantaa"/>
       <tag k="ref" v="VVP548"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="black"/>
       <tag k="handle" v="twist_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1106,7 +1105,7 @@
       <tag k="name" v="HSY vesiposti: Keimolantie 29"/>
       <tag k="addr:city" v="Vantaa"/>
       <tag k="ref" v="VVP547"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="black"/>
       <tag k="handle" v="twist_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1206,7 +1205,7 @@
       <tag k="name" v="HSY vesiposti: Repolantie 15"/>
       <tag k="addr:city" v="Vantaa"/>
       <tag k="ref" v="VVP544"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="black"/>
       <tag k="handle" v="twist_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1272,7 +1271,7 @@
       <tag k="name" v="HSY vesiposti: Pitkäsentie 10"/>
       <tag k="addr:city" v="Vantaa"/>
       <tag k="ref" v="VVP542"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="black"/>
       <tag k="handle" v="twist_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1407,7 +1406,7 @@
       <tag k="name" v="HSY vesiposti: Karviaistie 3"/>
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP505"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1473,7 +1472,7 @@
       <tag k="name" v="HSY vesiposti: Huhtamäentie 13"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP68"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1572,7 +1571,7 @@
       <tag k="name" v="HSY vesiposti: Lasilaakso 3"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP23"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1605,7 +1604,7 @@
       <tag k="name" v="HSY vesiposti: Purolehto 2"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP2"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1638,7 +1637,7 @@
       <tag k="name" v="HSY vesiposti: Kottaraisentie 9"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP9"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1671,7 +1670,7 @@
       <tag k="name" v="HSY vesiposti: Anfallintie 28"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP3"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1704,7 +1703,7 @@
       <tag k="name" v="HSY vesiposti: Paciuksenmäki 2"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP8"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1737,7 +1736,7 @@
       <tag k="name" v="HSY vesiposti: Nupurintie 12"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP10"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1804,7 +1803,7 @@
       <tag k="name" v="HSY vesiposti: Telamäenkuja 5"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP30"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1871,7 +1870,7 @@
       <tag k="name" v="HSY vesiposti: Laaksolahdentie 63"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP4"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -1904,7 +1903,7 @@
       <tag k="name" v="HSY vesiposti: Karpintie 4"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP36"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2004,7 +2003,7 @@
       <tag k="name" v="HSY vesiposti: Kamreerintie 3"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP17"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2070,7 +2069,7 @@
       <tag k="name" v="HSY vesiposti: Taavilankuja 3"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP18"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2103,7 +2102,7 @@
       <tag k="name" v="HSY vesiposti: Ruukinmestarintie 10"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP32"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2136,7 +2135,7 @@
       <tag k="name" v="HSY vesiposti: Kattilalaaksontie 0"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP33"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2169,7 +2168,7 @@
       <tag k="name" v="HSY vesiposti: Rintamaantie 3a"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP15"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2202,7 +2201,7 @@
       <tag k="name" v="HSY vesiposti: Hanikka 18a"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP37"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2269,7 +2268,7 @@
       <tag k="name" v="HSY vesiposti: Iltayönpolku 0"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP25"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2336,7 +2335,7 @@
       <tag k="name" v="HSY vesiposti: Kaupinkalliontie 10"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP24"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2369,7 +2368,7 @@
       <tag k="name" v="HSY vesiposti: Impilahdentie 18"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP16"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
@@ -2435,7 +2434,7 @@
       <tag k="name" v="HSY vesiposti: Luuvantie 1"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP7"/>
-      <tag k="operational_status:note" v=""/>
+      <tag k="operational_status:note" v="Toimii"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
