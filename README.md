@@ -50,8 +50,8 @@ Below instructions are written for Ubuntu Linux.
 Install above with:
 ```
 sudo apt install libsaxonb-java gpsbabel
-
 ```
+
 Note that you can not use commonly used `xsltproc` since it is limited to XSLT 1.0. Saxon supports XSLT 2.0.
 
 ### Transform KML file exported from Google Maps to OSM file
