@@ -145,6 +145,11 @@
                                     select="replace($mapillary, 'https://www.mapillary.com/app/\?pKey=', '')"/>
                         </xsl:attribute>
                     </tag>
+                    <tag k="image">
+                        <xsl:attribute name="v">
+                            <xsl:value-of select="concat('https://s6.gifyu.com/images/', $hsyId, '_1.jpg')" />
+                        </xsl:attribute>
+                    </tag>
                     <tag k="access" v="yes"/>
                     <tag k="addr:country" v="FI"/>
                     <tag k="amenity" v="drinking_water"/>
