@@ -1,5 +1,7 @@
 ## Image urls
 
+See album here: https://gifyu.com/album/gMS
+
 All HSY water post images uploaded to Gifyu, filename is based on HSY water post id:
 * https://s6.gifyu.com/images/VVP1_1.jpg
 * https://s6.gifyu.com/images/VVP2_1.jpg
