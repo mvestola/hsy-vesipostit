@@ -35,18 +35,28 @@ HSY original data is copied to `hsy-original-data` folder. There are two formats
 
 Below instructions are written for Ubuntu Linux.
 
+### Software needed
+
+* [GPSBabel](http://www.gpsbabel.org/index.html)
+* [Saxon-HE](https://www.saxonica.com/download/java.xml)
+
+Install above with:
+```
+sudo apt install libsaxonb-java gpsbabel
+
+```
+Note that you can not use commonly used `xsltproc` since it is limited to XSLT 1.0. Saxon supports XSLT 2.0.
+
 ### Transform KML file exported from Google Maps to OSM file
 
-First make sure that you have installed XSLT 2.0 compatible processor. 
-Commonly used `xsltproc` does not work since it is limited to XSLT 1.0.
-Here we use cross platform [Saxon-HE](https://www.saxonica.com/download/java.xml). This can be installed in Ubuntu:
-```
-sudo apt install libsaxonb-java
-```
-
-Convert KML to OSM:
 ```
 ./kml-to-osm.sh
+```
+
+### Transform KML file exported from Google Maps to GPX file
+
+```
+./kml-to-gpx.sh
 ```
 
 ### Upload Mapillary images
