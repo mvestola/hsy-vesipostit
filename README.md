@@ -1,18 +1,34 @@
 # HSY vesipostit
 
-Code related to importing HSY drinking water posts (vesipostit) to OpenStreetMap and Google Maps
+## Kuvaus (in Finnish)
+
+Tämä repo sisältää skriptejä ja tiedostoja [HSYn vesipostien](http://www.polkupyoraily.net/wiki/Vesipostit) näyttämiseen Google Maps ja OpenStreetMap -kartoissa.
+Vesipostien sijainnit perustuvat [HSYn avoimeen dataan]((https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/)): vesipostien sijainti- ja osoitedata ovat siis peräisin HSY:ltä. Google Maps ja OpenStreetMap -pohjaisissa kartoissa näkyvät vesipostien tila, tyyppi, kuvat ja lisätiedot ovat käyttäjien keräämiä, ne eivät siis tule HSY:ltä.
+
+Tämä repo ei ole HSYn ylläpitämä. Palautetta reposta voi lähettää sähköpostilla: hsy-vesipostit@polkupyoraily.net
+
+## Description
+
+This repositor includes scripts and files for show [HSYn water posts (Finnish only)](http://www.polkupyoraily.net/wiki/Vesipostit) in Google Maps and OpenStreetMap. HSY water post locations are based on [open data provided by HSY](https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/): water post locations and addresses come from HSY. Water post status, type, images and extra information are collected by users, so those data do not come from HSY.
+
+## Maps
+
+* [HSY water posts in Google Maps based map](https://www.google.com/maps/d/viewer?mid=1WeNhhtc9n4ypJ_X3bz5KpLppR5JNsk9A&usp=sharing), short link: [http://www.polkupyoraily.net/hsy-vesipostit](http://www.polkupyoraily.net/hsy-vesipostit)
+* [HSY water posts in OpenStreetMap based map](http://u.osmfr.org/m/635042/), short link: [http://www.polkupyoraily.net/hsy-vesipostit-osm](http://www.polkupyoraily.net/hsy-vesipostit-osm)
+
+## Usage
+
+This repository contains following files which you might be able to import to e.g. your navigator or other program:
+* KMZ file exported from Google Maps
+* KML file exported from Google Maps
+* OSM file converted from KML file
+
+The main idea is that the primary source of the data is Google Maps which is easiest to update.
+
+
+## Development
 
 Below instructions are written for Ubuntu Linux.
-
-## Original address and location data
-
-HSY water post address and location data in this repo is based on [open data provided by HSY](https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/).
-This data is enriched by user created data like images, status, handle type etc.
-
-## Map links
-
-* [Google Maps](https://www.google.com/maps/d/viewer?mid=1WeNhhtc9n4ypJ_X3bz5KpLppR5JNsk9A&usp=sharing), short link: [http://www.polkupyoraily.net/hsy-vesipostit](http://www.polkupyoraily.net/hsy-vesipostit)
-* [OpenStreetMap](http://u.osmfr.org/m/635042/), short link: [http://www.polkupyoraily.net/hsy-vesipostit-osm](http://www.polkupyoraily.net/hsy-vesipostit-osm)
 
 ## Transform KML file exported from Google Maps to OSM file
 
@@ -34,3 +50,14 @@ Install [Mapillary tools](https://github.com/mapillary/mapillary_tools). Go to f
 ```
 mapillary_tools process_and_upload --import_path "./" --user_name "YOUR_MAPILLARY_USERNAME"
 ```
+
+## Links
+
+* [Discussion in OSM Finnish forum](https://forum.openstreetmap.org/viewtopic.php?id=73183)
+* [How to use HSY water posts (in Finnish only)](http://www.polkupyoraily.net/wiki/Vesipostit)
+
+## License
+
+Creative Commons Attribution 4.0 International
+
+This licence was chosen since that is the licence of the original HSY data
