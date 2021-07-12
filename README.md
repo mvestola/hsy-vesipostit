@@ -19,9 +19,10 @@ This repositor includes scripts and files for show [HSYn water posts (Finnish on
 ## Repositor usage
 
 This repository contains following files which you might be able to import to e.g. your navigator or other program:
-* KMZ file exported from Google Maps
-* KML file exported from Google Maps
-* OSM file converted from KML file
+* [KMZ file](google-maps-export.kmz) exported from Google Maps
+* [KML file](google-maps-export.kml) exported from Google Maps
+* [GPX file](google-maps-export.gpx) converted from KML file
+* [OSM file](google-maps-export.osm) converted from KML file
 
 The main idea is that the primary source of the data is Google Maps which is easiest to update.
 
