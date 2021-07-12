@@ -54,6 +54,12 @@ sudo apt install libsaxonb-java gpsbabel
 
 Note that you can not use commonly used `xsltproc` since it is limited to XSLT 1.0. Saxon supports XSLT 2.0.
 
+### Export Google Maps to KML/KMZ
+
+1. Open [HSY water posts in Google Maps based map](https://www.google.com/maps/d/viewer?mid=1WeNhhtc9n4ypJ_X3bz5KpLppR5JNsk9A&usp=sharing) in public read mode (not edit mode)
+2. Click three dots from upper left corner
+3. Choose load as KML
+
 ### Transform KML file exported from Google Maps to OSM file
 
 ```
@@ -72,6 +78,8 @@ Install [Mapillary tools](https://github.com/mapillary/mapillary_tools). Go to f
 ```
 mapillary_tools process_and_upload --import_path "./" --user_name "YOUR_MAPILLARY_USERNAME"
 ```
+
+Mapillary might take a day to process images. Add link to mapillary image to Google Maps datasheet.
 
 ## Links
 
