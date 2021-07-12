@@ -1,15 +1,19 @@
-# HSY vesipostit
+# HSY vesipostit kartalla / HSY water posts on map
+
+<kbd><img src="images/promo/water-post-helsinki.jpg" alt="Vesiposti Helsingissä" height="200" /></kbd> <kbd><img src="images/promo/google-maps-screenshot.png" alt="Google Maps" height="200" /></kbd> 
 
 ## Kuvaus (in Finnish)
 
 Tämä repo sisältää skriptejä ja tiedostoja [HSYn vesipostien](http://www.polkupyoraily.net/wiki/Vesipostit) näyttämiseen Google Maps ja OpenStreetMap -kartoissa.
-Vesipostien sijainnit perustuvat [HSYn avoimeen dataan]((https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/)): vesipostien sijainti- ja osoitedata ovat siis peräisin HSY:ltä. Google Maps ja OpenStreetMap -pohjaisissa kartoissa näkyvät vesipostien tila, tyyppi, kuvat ja lisätiedot ovat käyttäjien keräämiä, ne eivät siis tule HSY:ltä.
+Vesipostien sijainnit perustuvat [HSYn avoimeen dataan]((https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/)): vesipostien sijainti- ja osoitedata ovat siis peräisin [Helsingin seudun ympäristöpalvelut HSY:ltä](https://www.hsy.fi/). Google Maps ja OpenStreetMap -pohjaisissa kartoissa näkyvät vesipostien tila, tyyppi, kuvat ja lisätiedot ovat käyttäjien keräämiä, ne eivät siis tule HSY:ltä.
 
-Tämä repo ei ole HSYn ylläpitämä. Palautetta reposta voi lähettää sähköpostilla: hsy-vesipostit@polkupyoraily.net
+**Tämä repo ei ole HSYn ylläpitämä**. Palautetta kartoista voi lähettää sähköpostilla: hsy-vesipostit@polkupyoraily.net
 
 ## Description
 
-This repositor includes scripts and files for show [HSYn water posts (Finnish only)](http://www.polkupyoraily.net/wiki/Vesipostit) in Google Maps and OpenStreetMap. HSY water post locations are based on [open data provided by HSY](https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/): water post locations and addresses come from HSY. Water post status, type, images and extra information are collected by users, so those data do not come from HSY.
+This repositor includes scripts and files for show [HSYn water posts (Finnish only)](http://www.polkupyoraily.net/wiki/Vesipostit) in Google Maps and OpenStreetMap. HSY water post locations are based on [open data provided by HSY](https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/): water post locations and addresses come from [Helsinki Region Environmental Services HSY](https://www.hsy.fi/en/). Water post status, type, images and extra information are collected by users, so those data do not come from HSY.
+
+**This repository is not maintained by HSY**. Feedback for maps can be sent by email: hsy-vesipostit@polkupyoraily.net
 
 ## Maps
 
