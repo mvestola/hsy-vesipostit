@@ -20,7 +20,7 @@ This repositor includes scripts and files for show [HSYn water posts (Finnish on
 * [HSY water posts in Google Maps based map](https://www.google.com/maps/d/viewer?mid=1WeNhhtc9n4ypJ_X3bz5KpLppR5JNsk9A&usp=sharing), short link: [http://www.polkupyoraily.net/hsy-vesipostit](http://www.polkupyoraily.net/hsy-vesipostit)
 * [HSY water posts in OpenStreetMap based map](http://u.osmfr.org/m/635042/), short link: [http://www.polkupyoraily.net/hsy-vesipostit-osm](http://www.polkupyoraily.net/hsy-vesipostit-osm)
 
-## Repositor usage
+## Repository usage
 
 This repository contains following files which you might be able to import to e.g. your navigator or other program:
 * [KMZ file](google-maps-export.kmz) exported from Google Maps
