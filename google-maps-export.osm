@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:kml="http://www.opengis.net/kml/2.2"
+     version="0.6"
+     upload="false"
+     generator="JOSM">
+   <node action="modify" id="-101753" lat="60.323763" lon="25.092801">
+      <tag k="name" v="HSY vesiposti: Mielikintie 11"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP8542"/>
+      <tag k="operational_status:note"
+           v="Outo vesiposti, pelkkä putki eikä mitään kahvaa. Ei taida olla julkinen vesiposti ollenkaan."/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="none"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Mielikintie"/>
+      <tag k="addr:housenumber" v="11"/>
+      <tag k="operational_status:date" v="2021-07-10"/>
+      <tag k="mapillary" v="4790945800922803"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101754" lat="60.350609" lon="25.0983">
+      <tag k="name" v="HSY vesiposti: Metsolantie 45"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP8571"/>
+      <tag k="operational_status:note"
+           v="Outo vesiposti, pelkkä putki eikä mitään kahvaa. Ei taida olla julkinen vesiposti ollenkaan."/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="none"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Metsolantie"/>
+      <tag k="addr:housenumber" v="45"/>
+      <tag k="operational_status:date" v="2021-07-10"/>
+      <tag k="mapillary" v="1672897312910208"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101755" lat="60.280263" lon="25.032826">
+      <tag k="name" v="HSY vesiposti: Arttolantie 20"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP582"/>
+      <tag k="operational_status:note" v="Ei toimi, nostokahva kokonaan kateissa."/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Arttolantie"/>
+      <tag k="addr:housenumber" v="20"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="2903098486619747"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101756" lat="60.271513" lon="25.040733">
+      <tag k="name" v="HSY vesiposti: Kimalaiskuja 1"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP581"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Kimalaiskuja"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="1897067127138570"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101757" lat="60.266144" lon="25.029459">
+      <tag k="name" v="HSY vesiposti: Veljestentie 7"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP580"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Veljestentie"/>
+      <tag k="addr:housenumber" v="7"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="347512193434701"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101758" lat="60.264864" lon="25.021879">
+      <tag k="name" v="HSY vesiposti: Aapontie 1"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP579"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Aapontie"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="200894068633183"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101759" lat="60.25912" lon="25.064207">
+      <tag k="name" v="HSY vesiposti: Tattariharjuntie 51"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP578"/>
+      <tag k="operational_status:note"
+           v="Vettä tulee hieman heikolla paineella, mutta kyllä tällä juomapullon helposti täyttää."/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Tattariharjuntie"/>
+      <tag k="addr:housenumber" v="51"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="1925647870932026"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101760" lat="60.252174" lon="25.009228">
+      <tag k="name" v="HSY vesiposti: Ylä-Malmin tori 0"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP577"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Ylä-Malmin tori"/>
+      <tag k="addr:housenumber" v="0"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="260070432591150"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101761" lat="60.244204" lon="25.038943">
+      <tag k="name" v="HSY vesiposti: Tattariharjuntie 26"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP576"/>
+      <tag k="operational_status:note"
+           v="Tästä vesipostista tulee mukavan kylmää vettä jopa kesähelteillä. Ehkä kylmintä vettä mitä vesiposteista tulee."/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Tattariharjuntie"/>
+      <tag k="addr:housenumber" v="26"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="956426861865407"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101762" lat="60.222235" lon="25.099397">
+      <tag k="name" v="HSY vesiposti: Puolimatkanpolku 13"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP575"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Puolimatkanpolku"/>
+      <tag k="addr:housenumber" v="13"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="898085864384705"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101763" lat="60.220577" lon="25.102716">
+      <tag k="name" v="HSY vesiposti: Lappeentie 10"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP574"/>
+      <tag k="operational_status:note"
+           v="Ruosteinen, piilossa kasvillisuuden seassa. Kahvan nostamisella ei mitään vaikutusta. Hankala käyttää muutenkin kun puoliksi pusikon keskellä."/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Lappeentie"/>
+      <tag k="addr:housenumber" v="10"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="121997416763521"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101764" lat="60.217814" lon="25.109219">
+      <tag k="name" v="HSY vesiposti: Korkeakoskenkuja 1"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP573"/>
+      <tag k="operational_status:note" v="Ruosteisen näköinen, mutta toimii hyvin"/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Korkeakoskenkuja"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="250240289843790"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101765" lat="60.221495" lon="24.934551">
+      <tag k="name" v="HSY vesiposti: Niittyläntie 12"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP572"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Niittyläntie"/>
+      <tag k="addr:housenumber" v="12"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="896846164518457"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101766" lat="60.224968" lon="24.842475">
+      <tag k="name" v="HSY vesiposti: Kyläkirkontie 18"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP571"/>
+      <tag k="operational_status:note" v="Piilossa kasvillisuuden seassa"/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Kyläkirkontie"/>
+      <tag k="addr:housenumber" v="18"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="538148580539681"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101767" lat="60.209133" lon="24.900305">
+      <tag k="name" v="HSY vesiposti: Kivihaantie 2b"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP570"/>
+      <tag k="operational_status:note"
+           v="Hieman hankalasti löydettävissä. Piilossa kasvillisuuden seassa."/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Kivihaantie"/>
+      <tag k="addr:housenumber" v="2b"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="234677648482675"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101768" lat="60.179317" lon="24.951997">
+      <tag k="name" v="HSY vesiposti: Hakaniemen torikatu 1"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP569"/>
+      <tag k="operational_status:note"
+           v="On todennäköisesti sijainnut kuvan kiiltävän metallisen levyn paikalla. Poistettu Hakaniemen hallin työmaan takia? Ehkä tulossa takaisin?"/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="unspecified"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Hakaniemen torikatu"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="1072595556883243"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101769" lat="60.171366" lon="24.955104">
+      <tag k="name" v="HSY vesiposti: Rauhankatu 13"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP568"/>
+      <tag k="operational_status:note"
+           v="Ei toimi, kahva irrallaan. Sijaitsee aidatun lasten leikkipuiston keskellä, vapaa pääsy."/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Rauhankatu"/>
+      <tag k="addr:housenumber" v="13"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="2886544294893250"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101770" lat="60.16742" lon="24.954153">
+      <tag k="name" v="HSY vesiposti: Kauppatori 0"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP567"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Kauppatori"/>
+      <tag k="addr:housenumber" v="0"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="4493158830708873"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101771" lat="60.16214" lon="24.939844">
+      <tag k="name" v="HSY vesiposti: Fredrikintori 0"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP565"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Fredrikintori"/>
+      <tag k="addr:housenumber" v="0"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="323145069488427"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101772" lat="60.178843" lon="24.923912">
+      <tag k="name" v="HSY vesiposti: Sandelsinkatu 1"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP564"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Sandelsinkatu"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="529928891523549"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101773" lat="60.172464" lon="24.904448">
+      <tag k="name" v="HSY vesiposti: Hiekkarannantie 15"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP563"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Hiekkarannantie"/>
+      <tag k="addr:housenumber" v="15"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="490261338733345"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101774" lat="60.163715" lon="24.887688">
+      <tag k="name" v="HSY vesiposti: Pohjoiskaari 25"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP562"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Pohjoiskaari"/>
+      <tag k="addr:housenumber" v="25"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="514378693228287"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101775" lat="60.18131" lon="24.993083">
+      <tag k="name" v="HSY vesiposti: Mustikkamaankuja 1"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP561"/>
+      <tag k="operational_status:note" v="Ruosteisen näköinen ja vinossa, mutta toimii."/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Mustikkamaankuja"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="mapillary" v="102428368747300"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101776" lat="60.169853" lon="25.079168">
+      <tag k="name" v="HSY vesiposti: Hepokalliontie 25"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP560"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Hepokalliontie"/>
+      <tag k="addr:housenumber" v="25"/>
+      <tag k="operational_status:date" v="2021-07-12"/>
+      <tag k="mapillary" v=""/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101777" lat="60.164231" lon="25.062629">
+      <tag k="name" v="HSY vesiposti: Takilatie 4"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP559"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Takilatie"/>
+      <tag k="addr:housenumber" v="4"/>
+      <tag k="operational_status:date" v="2021-07-12"/>
+      <tag k="mapillary" v=""/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101778" lat="60.148253" lon="24.985276">
+      <tag k="name" v="HSY vesiposti: Iso Mustasaari C45"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP558"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="unspecified"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Iso Mustasaari C"/>
+      <tag k="addr:housenumber" v="45"/>
+      <tag k="operational_status:date" v="1970-01-01"/>
+      <tag k="mapillary" v=""/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101779" lat="60.147017" lon="24.986334">
+      <tag k="name" v="HSY vesiposti: Iso Mustasaari C31"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP557"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="unspecified"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Iso Mustasaari C"/>
+      <tag k="addr:housenumber" v="31"/>
+      <tag k="operational_status:date" v="1970-01-01"/>
+      <tag k="mapillary" v=""/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101780" lat="60.327616" lon="24.863967">
+      <tag k="name" v="HSY vesiposti: Kangasmäki 3"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP549"/>
+      <tag k="operational_status:note" v="Hiekkatien varrella"/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Kangasmäki"/>
+      <tag k="addr:housenumber" v="3"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="399815074767535"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101781" lat="60.290564" lon="24.785513">
+      <tag k="name" v="HSY vesiposti: Koivurinne 9b"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP539"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Koivurinne"/>
+      <tag k="addr:housenumber" v="9b"/>
+      <tag k="operational_status:date" v="2021-07-05"/>
+      <tag k="mapillary" v="766502614022531"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101782" lat="60.346815" lon="24.876555">
+      <tag k="name" v="HSY vesiposti: Knaapinkuja 1"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP538"/>
+      <tag k="operational_status:note" v="Vesi tulee todella isolla paineella"/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Knaapinkuja"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="357458789356675"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101783" lat="60.35768" lon="24.90828">
+      <tag k="name" v="HSY vesiposti: Kevättuulenpolku 0"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP537"/>
+      <tag k="operational_status:note"
+           v="T-kahva on todella jäykkä, kääntäminen vaatii paljon voimaa. Vettä kuitenkin tulee kun kiertää n. 4 kierrosta vastapäivään."/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Kevättuulenpolku"/>
+      <tag k="addr:housenumber" v="0"/>
+      <tag k="operational_status:date" v="2021-07-10"/>
+      <tag k="mapillary" v="329662978606576"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101784" lat="60.27957" lon="24.910793">
+      <tag k="name" v="HSY vesiposti: Karhuniityntie 1"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP535"/>
+      <tag k="operational_status:note" v="T-kahva puuttui 4.7.2021"/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Karhuniityntie"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="178058024303261"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101785" lat="60.280819" lon="24.928003">
+      <tag k="name" v="HSY vesiposti: Ylästöntie 71"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP548"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Ylästöntie"/>
+      <tag k="addr:housenumber" v="71"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="297139932147338"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101786" lat="60.319413" lon="24.843223">
+      <tag k="name" v="HSY vesiposti: Keimolantie 29"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP547"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Keimolantie"/>
+      <tag k="addr:housenumber" v="29"/>
+      <tag k="operational_status:date" v="2021-07-10"/>
+      <tag k="mapillary" v="494375804975066"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101787" lat="60.288302" lon="24.786792">
+      <tag k="name" v="HSY vesiposti: Toivonrinne 1"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP546"/>
+      <tag k="operational_status:note" v="T-kahva puuttui 05.07.2021"/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Toivonrinne"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-05"/>
+      <tag k="mapillary" v="545093723478070"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101788" lat="60.310506" lon="25.062666">
+      <tag k="name" v="HSY vesiposti: Rosenlundintie 1"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP545"/>
+      <tag k="operational_status:note"
+           v="Hiekkatien varrella. T-kahva ei kuvun sisällä vaan mene läpi kuvun. Vesipostissa kiinni muovinen puutarhaletku."/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Rosenlundintie"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-10"/>
+      <tag k="mapillary" v="568168917529316"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101789" lat="60.359625" lon="25.033644">
+      <tag k="name" v="HSY vesiposti: Repolantie 15"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP544"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Repolantie"/>
+      <tag k="addr:housenumber" v="15"/>
+      <tag k="operational_status:date" v="2021-07-10"/>
+      <tag k="mapillary" v="493552241707993"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101790" lat="60.27156" lon="25.091642">
+      <tag k="name" v="HSY vesiposti: Rajatie 47"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP543"/>
+      <tag k="operational_status:note" v="Ei toimi, T-kahva puuttuu"/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Rajatie"/>
+      <tag k="addr:housenumber" v="47"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="233606725267994"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101791" lat="60.275561" lon="25.095387">
+      <tag k="name" v="HSY vesiposti: Pitkäsentie 10"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP542"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Pitkäsentie"/>
+      <tag k="addr:housenumber" v="10"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="207672337803368"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101792" lat="60.363633" lon="25.056155">
+      <tag k="name" v="HSY vesiposti: Naakkakuja 21"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP541"/>
+      <tag k="operational_status:note"
+           v="Ei toimi, T-kahva puuttuu. Kahva ei ole kuvun sisällä vaan kuvussa on reikä, jonka läpi kahva menee ja kupu on lukittu."/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Naakkakuja"/>
+      <tag k="addr:housenumber" v="21"/>
+      <tag k="operational_status:date" v="2021-07-10"/>
+      <tag k="mapillary" v="555765952226177"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101793" lat="60.342113" lon="25.076581">
+      <tag k="name" v="HSY vesiposti: Nousutie 6a"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP540"/>
+      <tag k="operational_status:note"
+           v="Hieman piilossa pusikon keskellä. T-kahva ei kuvun sisällä vaan menee läpi kuvun. Vesiputki hieman oudon mallinen ja kovin alhaalla puskien keskellä."/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Nousutie"/>
+      <tag k="addr:housenumber" v="6a"/>
+      <tag k="operational_status:date" v="2021-07-10"/>
+      <tag k="mapillary" v="363319622086587"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101794" lat="60.347187" lon="25.112986">
+      <tag k="name" v="HSY vesiposti: Sorvatie 19"/>
+      <tag k="addr:city" v="Vantaa"/>
+      <tag k="ref" v="VVP533"/>
+      <tag k="operational_status:note"
+           v="Ei toimi. Kupu lukittu ruuvilla, jonka saa kyllä auki. Kuvun sisällä on T-kahva, mutta kahvaa ei pysty kääntämään ollenkaan."/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Sorvatie"/>
+      <tag k="addr:housenumber" v="19"/>
+      <tag k="operational_status:date" v="2021-07-10"/>
+      <tag k="mapillary" v="1179305772589953"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101795" lat="60.246692" lon="25.007852">
+      <tag k="name" v="HSY vesiposti: Karviaistie 3"/>
+      <tag k="addr:city" v="Helsinki"/>
+      <tag k="ref" v="VVP505"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Karviaistie"/>
+      <tag k="addr:housenumber" v="3"/>
+      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="mapillary" v="969191837226079"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101796" lat="60.228958" lon="24.76476">
+      <tag k="name" v="HSY vesiposti: Suohaukantie 2"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP588"/>
+      <tag k="operational_status:note" v="Kahden penkin välissä, piilossa kuusen juuressa"/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Suohaukantie"/>
+      <tag k="addr:housenumber" v="2"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="198337732275924"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101797" lat="60.328123" lon="24.718168">
+      <tag k="name" v="HSY vesiposti: Huhtamäentie 13"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP68"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Huhtamäentie"/>
+      <tag k="addr:housenumber" v="13"/>
+      <tag k="operational_status:date" v="2021-07-05"/>
+      <tag k="mapillary" v="548263279665864"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101798" lat="60.150237" lon="24.656111">
+      <tag k="name" v="HSY vesiposti: Espoonlahdenkatu 7"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP67"/>
+      <tag k="operational_status:note" v="Ei toimi, T-kahva puuttuu"/>
+      <tag k="colour" v="black"/>
+      <tag k="handle" v="twist_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="plastic"/>
+      <tag k="addr:street" v="Espoonlahdenkatu"/>
+      <tag k="addr:housenumber" v="7"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="172789234884045"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101799" lat="60.22535" lon="24.629897">
+      <tag k="name" v="HSY vesiposti: Karhusuonkuja 2"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP14"/>
+      <tag k="operational_status:note" v="Hieman piilossa kasvillisuuden seassa"/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Karhusuonkuja"/>
+      <tag k="addr:housenumber" v="2"/>
+      <tag k="operational_status:date" v="2021-07-11"/>
+      <tag k="mapillary" v="181547937353335"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101800" lat="60.182722" lon="24.578232">
+      <tag k="name" v="HSY vesiposti: Lasilaakso 3"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP23"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Lasilaakso"/>
+      <tag k="addr:housenumber" v="3"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="859942778270944"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101801" lat="60.278527" lon="24.750665">
+      <tag k="name" v="HSY vesiposti: Purolehto 2"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP2"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Purolehto"/>
+      <tag k="addr:housenumber" v="2"/>
+      <tag k="operational_status:date" v="2021-07-05"/>
+      <tag k="mapillary" v="168002288651170"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101802" lat="60.23606" lon="24.808911">
+      <tag k="name" v="HSY vesiposti: Kottaraisentie 9"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP9"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Kottaraisentie"/>
+      <tag k="addr:housenumber" v="9"/>
+      <tag k="operational_status:date" v="2021-07-05"/>
+      <tag k="mapillary" v="825454018098245"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101803" lat="60.275045" lon="24.719329">
+      <tag k="name" v="HSY vesiposti: Anfallintie 28"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP3"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Anfallintie"/>
+      <tag k="addr:housenumber" v="28"/>
+      <tag k="operational_status:date" v="2021-07-05"/>
+      <tag k="mapillary" v="561025821604458"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101804" lat="60.239965" lon="24.690507">
+      <tag k="name" v="HSY vesiposti: Paciuksenmäki 2"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP8"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Paciuksenmäki"/>
+      <tag k="addr:housenumber" v="2"/>
+      <tag k="operational_status:date" v="2021-07-05"/>
+      <tag k="mapillary" v="372240890936870"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101805" lat="60.238028" lon="24.595414">
+      <tag k="name" v="HSY vesiposti: Nupurintie 12"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP10"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Nupurintie"/>
+      <tag k="addr:housenumber" v="12"/>
+      <tag k="operational_status:date" v="2021-07-11"/>
+      <tag k="mapillary" v="193772009256752"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101806" lat="60.240979" lon="24.831881">
+      <tag k="name" v="HSY vesiposti: Sotilastorpantie 1"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP6"/>
+      <tag k="operational_status:note"
+           v="Hieman piilossa kasvillisuuden seassa, näkyy tielle"/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Sotilastorpantie"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="399134868206447"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101807" lat="60.165747" lon="24.763581">
+      <tag k="name" v="HSY vesiposti: Telamäenkuja 5"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP30"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Telamäenkuja"/>
+      <tag k="addr:housenumber" v="5"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="568700040959893"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101808" lat="60.147989" lon="24.741945">
+      <tag k="name" v="HSY vesiposti: Nuottaniementie 15"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP35"/>
+      <tag k="operational_status:note"
+           v="Kahvan nostamisella ei mitään vaikutusta. Kahva jotenkin jäykkä."/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="broken"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Nuottaniementie"/>
+      <tag k="addr:housenumber" v="15"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="547534086598176"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101809" lat="60.25201" lon="24.769254">
+      <tag k="name" v="HSY vesiposti: Laaksolahdentie 63"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP4"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Laaksolahdentie"/>
+      <tag k="addr:housenumber" v="63"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="119540670268688"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101810" lat="60.141926" lon="24.691452">
+      <tag k="name" v="HSY vesiposti: Karpintie 4"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP36"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Karpintie"/>
+      <tag k="addr:housenumber" v="4"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="512561063284044"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101811" lat="60.24968" lon="24.778266">
+      <tag k="name" v="HSY vesiposti: Jupperinkuja 14"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP5"/>
+      <tag k="operational_status:note" v="Hiekkatien varrella"/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Jupperinkuja"/>
+      <tag k="addr:housenumber" v="14"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="513819979937176"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101812" lat="60.28626" lon="24.739864">
+      <tag k="name" v="HSY vesiposti: Suopurontie 9c"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP1"/>
+      <tag k="operational_status:note"
+           v="Hieman piilossa kasvillisuuden seassa, näkyy tielle"/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Suopurontie"/>
+      <tag k="addr:housenumber" v="9c"/>
+      <tag k="operational_status:date" v="2021-07-05"/>
+      <tag k="mapillary" v="493197521982927"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101813" lat="60.204687" lon="24.656605">
+      <tag k="name" v="HSY vesiposti: Kamreerintie 3"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP17"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Kamreerintie"/>
+      <tag k="addr:housenumber" v="3"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="374965977295636"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101814" lat="60.18222" lon="24.594882">
+      <tag k="name" v="HSY vesiposti: Åminnenmäki 2"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP22"/>
+      <tag k="operational_status:note" v="Piilossa pusikon seassa, näkyy tielle."/>
+      <tag k="colour" v="green"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Åminnenmäki"/>
+      <tag k="addr:housenumber" v="2"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="1431213920593234"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101815" lat="60.198142" lon="24.7564">
+      <tag k="name" v="HSY vesiposti: Taavilankuja 3"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP18"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Taavilankuja"/>
+      <tag k="addr:housenumber" v="3"/>
+      <tag k="operational_status:date" v="2021-07-05"/>
+      <tag k="mapillary" v="504945524129645"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101816" lat="60.161053" lon="24.627002">
+      <tag k="name" v="HSY vesiposti: Ruukinmestarintie 10"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP32"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Ruukinmestarintie"/>
+      <tag k="addr:housenumber" v="10"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="338735897731329"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101817" lat="60.157926" lon="24.642156">
+      <tag k="name" v="HSY vesiposti: Kattilalaaksontie 0"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP33"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Kattilalaaksontie"/>
+      <tag k="addr:housenumber" v="0"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="1010695646358396"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101818" lat="60.21625" lon="24.631326">
+      <tag k="name" v="HSY vesiposti: Rintamaantie 3a"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP15"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Rintamaantie"/>
+      <tag k="addr:housenumber" v="3a"/>
+      <tag k="operational_status:date" v="2021-07-11"/>
+      <tag k="mapillary" v="512603400011830"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101819" lat="60.133942" lon="24.682858">
+      <tag k="name" v="HSY vesiposti: Hanikka 18a"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP37"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Hanikka"/>
+      <tag k="addr:housenumber" v="18a"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="192993456097923"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101820" lat="60.170556" lon="24.582878">
+      <tag k="name" v="HSY vesiposti: Mustanlahdentie 15a"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP28"/>
+      <tag k="operational_status:note"
+           v="Tuli vähän likaista vettä hetken, parasta siis valuttaa vettä hetki, jotta tulee puhdasta vettä. Ilmeisesti ei paljoa käytetä?"/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Mustanlahdentie"/>
+      <tag k="addr:housenumber" v="15a"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="210146210991833"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101821" lat="60.171261" lon="24.731613">
+      <tag k="name" v="HSY vesiposti: Iltayönpolku 0"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP25"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Iltayönpolku"/>
+      <tag k="addr:housenumber" v="0"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="215663976967839"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101822" lat="60.173779" lon="24.662419">
+      <tag k="name" v="HSY vesiposti: Nöykkiönkatu 44"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP26"/>
+      <tag k="operational_status:note"
+           v="Vesiposti ei enää olemassa, paikalla tietyömaa ja vain HSYn kaivonkansi. Ehkä tulee takaisin kun työmaa valmis?"/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="unspecified"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Nöykkiönkatu"/>
+      <tag k="addr:housenumber" v="44"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v=""/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101823" lat="60.177501" lon="24.803043">
+      <tag k="name" v="HSY vesiposti: Kaupinkalliontie 10"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP24"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Kaupinkalliontie"/>
+      <tag k="addr:housenumber" v="10"/>
+      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="mapillary" v="937935536782496"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101824" lat="60.20936" lon="24.808551">
+      <tag k="name" v="HSY vesiposti: Impilahdentie 18"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP16"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Impilahdentie"/>
+      <tag k="addr:housenumber" v="18"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="983302958905270"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101825" lat="60.220642" lon="24.81199">
+      <tag k="name" v="HSY vesiposti: Läkkisepänkuja 1"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP12"/>
+      <tag k="operational_status:note" v="Ruosteisen näköinen, mutta toimii"/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Läkkisepänkuja"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="177900351019687"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+   <node action="modify" id="-101826" lat="60.238912" lon="24.77312">
+      <tag k="name" v="HSY vesiposti: Luuvantie 1"/>
+      <tag k="addr:city" v="Espoo"/>
+      <tag k="ref" v="VVP7"/>
+      <tag k="operational_status:note" v=""/>
+      <tag k="colour" v="silver"/>
+      <tag k="handle" v="lift_handle"/>
+      <tag k="operational_status" v="operational"/>
+      <tag k="material" v="steel"/>
+      <tag k="addr:street" v="Luuvantie"/>
+      <tag k="addr:housenumber" v="1"/>
+      <tag k="operational_status:date" v="2021-07-04"/>
+      <tag k="mapillary" v="2868342280081352"/>
+      <tag k="access" v="yes"/>
+      <tag k="addr:country" v="FI"/>
+      <tag k="amenity" v="drinking_water"/>
+      <tag k="bottle" v="yes"/>
+      <tag k="cold_water" v="yes"/>
+      <tag k="fee" v="no"/>
+      <tag k="hot_water" v="no"/>
+      <tag k="indoor" v="no"/>
+      <tag k="operator" v="HSY"/>
+      <tag k="seasonal" v="spring;summer;autumn"/>
+      <tag k="source" v="survey"/>
+      <tag k="source:location"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:ref"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="source:addr"
+           v="https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/"/>
+      <tag k="surface" v="paved"/>
+      <tag k="website:map" v="http://www.polkupyoraily.net/hsy-vesipostit"/>
+   </node>
+</osm>
