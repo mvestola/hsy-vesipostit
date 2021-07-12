@@ -91,6 +91,9 @@ Mapillary might take a day to process images. Add link to mapillary image to Goo
 
 ## License
 
-Creative Commons Attribution 4.0 International
+**CC BY 4.0** (Creative Commons Attribution 4.0 International)
 
-This licence was chosen since that is the licence of the original HSY data
+This licence was chosen since that is the licence of the original HSY data. Note that **CC BY 4.0** license is not directly compatible with OpenStreetMap which
+uses ODbL license. HSY permision is pending for obtaining the necessary waivers. 
+
+Any other code in this repository other than HSY water post GPS location and address data can be freely used by providing link to this page.
