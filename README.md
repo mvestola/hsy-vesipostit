@@ -16,7 +16,7 @@ This repositor includes scripts and files for show [HSYn water posts (Finnish on
 * [HSY water posts in Google Maps based map](https://www.google.com/maps/d/viewer?mid=1WeNhhtc9n4ypJ_X3bz5KpLppR5JNsk9A&usp=sharing), short link: [http://www.polkupyoraily.net/hsy-vesipostit](http://www.polkupyoraily.net/hsy-vesipostit)
 * [HSY water posts in OpenStreetMap based map](http://u.osmfr.org/m/635042/), short link: [http://www.polkupyoraily.net/hsy-vesipostit-osm](http://www.polkupyoraily.net/hsy-vesipostit-osm)
 
-## Usage
+## Repositor usage
 
 This repository contains following files which you might be able to import to e.g. your navigator or other program:
 * KMZ file exported from Google Maps
@@ -25,12 +25,17 @@ This repository contains following files which you might be able to import to e.
 
 The main idea is that the primary source of the data is Google Maps which is easiest to update.
 
+## Original data
+
+HSY original data is copied to `hsy-original-data` folder. There are two formats available:
+* MapInfo TAB file `*.tab`
+* ESRI Shapefile `*.shp`
 
 ## Development
 
 Below instructions are written for Ubuntu Linux.
 
-## Transform KML file exported from Google Maps to OSM file
+### Transform KML file exported from Google Maps to OSM file
 
 First make sure that you have installed XSLT 2.0 compatible processor. 
 Commonly used `xsltproc` does not work since it is limited to XSLT 1.0.
@@ -44,7 +49,7 @@ Convert KML to OSM:
 ./kml-to-osm.sh
 ```
 
-## Upload Mapillary images
+### Upload Mapillary images
 
 Install [Mapillary tools](https://github.com/mapillary/mapillary_tools). Go to folder where new images are and execute:
 ```
@@ -55,6 +60,9 @@ mapillary_tools process_and_upload --import_path "./" --user_name "YOUR_MAPILLAR
 
 * [Discussion in OSM Finnish forum](https://forum.openstreetmap.org/viewtopic.php?id=73183)
 * [How to use HSY water posts (in Finnish only)](http://www.polkupyoraily.net/wiki/Vesipostit)
+* [JOSM plugin which can read .kml, .shp and .tab files](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/OpenData)
+* https://wiki.openstreetmap.org/wiki/Import/Guidelines
+* https://wiki.openstreetmap.org/wiki/Import/ODbL_Compatibility
 
 ## License
 
