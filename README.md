@@ -5,7 +5,7 @@
 ## Kuvaus (in Finnish)
 
 Tämä repo sisältää skriptejä ja tiedostoja [HSYn vesipostien](http://www.polkupyoraily.net/wiki/Vesipostit) näyttämiseen [Google Maps](https://www.google.com/maps/d/viewer?mid=1WeNhhtc9n4ypJ_X3bz5KpLppR5JNsk9A&usp=sharing) ja [OpenStreetMap](http://u.osmfr.org/m/635042/) -kartoissa.
-Vesipostien sijainnit perustuvat [HSYn avoimeen dataan]((https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/)): vesipostien sijainti- ja osoitedata ovat siis peräisin [Helsingin seudun ympäristöpalvelut HSY:ltä](https://www.hsy.fi/). Google Maps ja OpenStreetMap -pohjaisissa kartoissa näkyvät vesipostien tila, tyyppi, kuvat ja lisätiedot ovat käyttäjien keräämiä, ne eivät siis tule HSY:ltä.
+Vesipostien sijainnit perustuvat [HSYn avoimeen dataan](https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/): vesipostien sijainti- ja osoitedata ovat siis peräisin [Helsingin seudun ympäristöpalvelut HSY:ltä](https://www.hsy.fi/). Google Maps ja OpenStreetMap -pohjaisissa kartoissa näkyvät vesipostien tila, tyyppi, kuvat ja lisätiedot ovat käyttäjien keräämiä, ne eivät siis tule HSY:ltä.
 
 **Tämä repo ei ole HSYn ylläpitämä**. Palautetta kartoista voi lähettää sähköpostilla: hsy-vesipostit@polkupyoraily.net
 
