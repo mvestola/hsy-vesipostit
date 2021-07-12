@@ -805,7 +805,7 @@
       <tag k="addr:street" v="Hepokalliontie"/>
       <tag k="addr:housenumber" v="25"/>
       <tag k="operational_status:date" v="2021-07-12"/>
-      <tag k="mapillary" v=""/>
+      <tag k="mapillary" v="266816165205362"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP560_1.jpg"/>
       <tag k="access" v="yes"/>
       <tag k="addr:country" v="FI"/>
@@ -839,7 +839,7 @@
       <tag k="addr:street" v="Takilatie"/>
       <tag k="addr:housenumber" v="4"/>
       <tag k="operational_status:date" v="2021-07-12"/>
-      <tag k="mapillary" v=""/>
+      <tag k="mapillary" v="203081161822100"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP559_1.jpg"/>
       <tag k="access" v="yes"/>
       <tag k="addr:country" v="FI"/>
