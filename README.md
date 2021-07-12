@@ -13,7 +13,7 @@ Tarkoitus on ylläpitää vesipostien dataa Google Maps -kartassa, jota on helpo
 
 ## Description
 
-This repositor includes scripts and files for show [HSYn water posts (Finnish only)](http://www.polkupyoraily.net/wiki/Vesipostit) in [Google Maps](https://www.google.com/maps/d/viewer?mid=1WeNhhtc9n4ypJ_X3bz5KpLppR5JNsk9A&usp=sharing) and [OpenStreetMap](http://u.osmfr.org/m/635042/). HSY water post locations are based on [open data provided by HSY](https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/): water post locations, HSY id and addresses come from [Helsinki Region Environmental Services HSY](https://www.hsy.fi/en/). Water post status, type, images and extra information are collected by users, so those data do not come from HSY.
+This repositor includes scripts and files for show [HSY water posts (Finnish only)](http://www.polkupyoraily.net/wiki/Vesipostit) in [Google Maps](https://www.google.com/maps/d/viewer?mid=1WeNhhtc9n4ypJ_X3bz5KpLppR5JNsk9A&usp=sharing) and [OpenStreetMap](http://u.osmfr.org/m/635042/). HSY water post locations are based on [open data provided by HSY](https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/): water post locations, HSY id and addresses come from [Helsinki Region Environmental Services HSY](https://www.hsy.fi/en/). Water post status, type, images and extra information are collected by users, so those data do not come from HSY.
 
 The main idea is that the primary source of the data is the Google Maps based map which is easiest to update. GPX files and OSM maps can be updated from Google Maps data with the scripts from this repo.
 
