@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "http://umap.openstreetmap.fr/en/map/hsy-vesipostit_635042#",
+  "uri": "https://umap.openstreetmap.fr/en/map/hsy-vesipostit_635042#11/60.2490/24.8456",
   "properties": {
     "easing": true,
     "tilelayersControl": null,
@@ -1490,7 +1490,7 @@
             "color": "Hopea",
             "material": "Teräs",
             "extra_info": "Vesiposti ei enää olemassa, paikalla tietyömaa ja vain HSYn kaivonkansi. Ehkä tulee takaisin kun työmaa valmis?",
-            "mapillary": "",
+            "mapillary": "https://www.mapillary.com/app/?pKey=354013323018181",
             "gx_media_links": "https://doc-0g-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/qtt3kdtmb6i2cua9h026hmflug/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5YzlhEXxh1QMzgAXIdkBpSq2NDNvkqmWogPrEEROONRlrs98YgKHr-ii9VrmtFfCBLGN6yuIl_Z0s_GTR7FME0WHFkRd_vGRT6WGKZhXDAt3dI5bwysEVdkp3baYY-8nzNCt6Dar0UFWhzlPjpU2EknmErnOy5ptxHmVNOw_Bkl4OuRtyNc1QVn7q3W0hoLXnZR?session=0&fife https://doc-04-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jcs4kes2eau0o2j5mjrgqm6trs/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5b5yFn_mGa_ugSc81A8nGFbxsjVm1ivpW_0MXSK8nK_RzNgP_-MlMyAi4cWPkPG0Mlcb238-ErJczdkrS8JhhczCFRmGEgXQjuR9kWAFykiiJ3p0J4FJx7RBMcp-1NEo8CofQVZ2nIsJlguFeXBoEpABvNDax2f1s51lFqQS2rNAbJWzTnODhcNJyHYfsiMxHTi?session=0&fife",
             "_umap_options": {
               "color": "SlateGray"
