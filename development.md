@@ -51,3 +51,18 @@ mapillary_tools process_and_upload --import_path "./" --user_name "YOUR_MAPILLAR
 ```
 
 Mapillary might take a day to process images. Add link to mapillary image to Google Maps datasheet.
+
+## Original data
+
+HSY original data is copied to `hsy-original-data` folder. There are two formats available:
+* MapInfo TAB file `*.tab`
+* ESRI Shapefile `*.shp`
+
+Original shapefile converted once to KML using tool: https://mygeodata.cloud/converter/shp-to-kml (uploaded whole zip file, allows 3 free conversions per month). 
+
+Can also use `ogr2ogr` tool locally (above service apparently uses `ogr2ogr` also in the background):
+```
+sudo apt install gdal-bin
+cd hsy-original-data/
+./convert-to-kml.sh
+```
