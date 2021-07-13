@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "http://umap.openstreetmap.fr/en/map/hsy-vesipostit_635042#11/60.2633/25.0117",
+  "uri": "http://umap.openstreetmap.fr/en/map/hsy-vesipostit_635042#",
   "properties": {
     "easing": true,
     "tilelayersControl": null,
@@ -44,7 +44,7 @@
     },
     "description": "HSYn vesipostit kartalla. Vesiposteista saa juomakelpoista vettä ja ne ovat käytössä säävarauksella huhtikuusta lokakuuhun.\n\nTämän kartan vesipostit perustuvat HSYn avoimeen dataan. Vesipostien tila, tyyppi, kuvat ja lisätiedot ovat käyttäjien keräämiä, ne eivät siis tule HSY:ltä.\n\nVesipostien käyttöohjeet: http://www.polkupyoraily.net/wiki/Vesipostit\n\nTämä kartta ei ole HSYn ylläpitämä. Palautetta kartasta voi lähettää sähköpostilla: hsy-vesipostit@polkupyoraily.net\n\nToimimattomista vesiposteista on hyvä ilmoittaa myös suoraan HSY:lle: https://www.hsy.fi/hsy/asiakaspalvelu/\n\nTämän kartan vesipostien sijainnit on päivitetty HSY:ltä 03.07.2021. Vesipostien sijainti- ja osoitedatan lähde: HSY avoin data, https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/paakaupunkiseudun-vesipostit/\n\nGitHub repo: https://github.com/mvestola/hsy-vesipostit",
     "name": "HSY vesipostit",
-    "onLoadPanel": "none",
+    "onLoadPanel": "databrowser",
     "displayPopupFooter": true,
     "miniMap": false,
     "moreControl": true,
