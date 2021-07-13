@@ -24,12 +24,19 @@
     "popupContentTemplate": "# {name}\n[[https://s6.gifyu.com/images/{hsy_id}_1.jpg|{{https://s6.gifyu.com/images/{hsy_id}_1.md.jpg}}]]\n\n**Vesipostin tiedot:**\n- **Osoite:** {address}, {city}\n- **HSY tunniste:** {hsy_id}\n- **Kahvan tyyppi:** {handle_type}\n- **Tila:** {status} (todettu: {status_date})\n- **Väri ja materiaali:** {color}, {material}\n- **Lisätietoja:** {extra_info}\n\n[[{mapillary}|Kuva Mapillaryssa]]",
     "popupTemplate": "Default",
     "popupShape": "Panel",
+    "fillOpacity": "0.6",
     "fill": true,
     "weight": "5",
+    "opacity": "0.6",
     "iconUrl": "{icon_symbol}",
     "iconClass": "Drop",
     "color": "DarkBlue",
-    "limitBounds": {},
+    "limitBounds": {
+      "east": 26.423492,
+      "west": 23.786774,
+      "north": 60.573476,
+      "south": 59.904779
+    },
     "tilelayer": {
       "tms": false,
       "name": "OpenStreetMap",
