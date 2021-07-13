@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="HSY_Vesipostit" id="HSY_Vesipostit">
+	<SimpleField name="tunniste" type="string"></SimpleField>
+	<SimpleField name="osoite" type="string"></SimpleField>
+	<SimpleField name="x" type="float"></SimpleField>
+	<SimpleField name="y" type="float"></SimpleField>
+</Schema>
+<Folder><name>HSY_Vesipostit</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP8542</SimpleData>
+		<SimpleData name="osoite">Mielikintie 11</SimpleData>
+		<SimpleData name="x">6690148.52730</SimpleData>
+		<SimpleData name="y">25505127.59770</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0928006926176,60.3237633124786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP8571</SimpleData>
+		<SimpleData name="osoite">Metsolantie 45</SimpleData>
+		<SimpleData name="x">6693140.04300</SimpleData>
+		<SimpleData name="y">25505426.99220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.098299923816,60.350608864511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP582</SimpleData>
+		<SimpleData name="osoite">Arttolantie 20</SimpleData>
+		<SimpleData name="x">6685298.67580</SimpleData>
+		<SimpleData name="y">25501816.16800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0328258547055,60.2802629682884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP581</SimpleData>
+		<SimpleData name="osoite">Kimalaiskuja 1</SimpleData>
+		<SimpleData name="x">6684324.05860</SimpleData>
+		<SimpleData name="y">25502254.27730</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0407334692168,60.2715133021586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP580</SimpleData>
+		<SimpleData name="osoite">Veljestentie 7</SimpleData>
+		<SimpleData name="x">6683725.54300</SimpleData>
+		<SimpleData name="y">25501630.57810</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0294587639002,60.2661444215062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP579</SimpleData>
+		<SimpleData name="osoite">Aapontie 1</SimpleData>
+		<SimpleData name="x">6683582.66410</SimpleData>
+		<SimpleData name="y">25501211.05860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0218786790909,60.2648635042524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP578</SimpleData>
+		<SimpleData name="osoite">Tattariharjuntie 51</SimpleData>
+		<SimpleData name="x">6682944.31250</SimpleData>
+		<SimpleData name="y">25503554.68360</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0642067747966,60.2591203793137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP577</SimpleData>
+		<SimpleData name="osoite">Ylä-Malmin tori (tori tai aukio) 0</SimpleData>
+		<SimpleData name="x">6682168.63670</SimpleData>
+		<SimpleData name="y">25500510.99610</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0092279545914,60.2521736405849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP576</SimpleData>
+		<SimpleData name="osoite">Tattariharjuntie 26</SimpleData>
+		<SimpleData name="x">6681281.24610</SimpleData>
+		<SimpleData name="y">25502156.96480</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0389426428286,60.2442036246285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP575</SimpleData>
+		<SimpleData name="osoite">Puolimatkanpolku 13</SimpleData>
+		<SimpleData name="x">6678837.07420</SimpleData>
+		<SimpleData name="y">25505509.09380</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0993966972167,60.2222348065752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP574</SimpleData>
+		<SimpleData name="osoite">Lappeentie 10</SimpleData>
+		<SimpleData name="x">6678652.60550</SimpleData>
+		<SimpleData name="y">25505693.37500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.1027163681336,60.2205766026105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP573</SimpleData>
+		<SimpleData name="osoite">Korkeakoskenkuja 1</SimpleData>
+		<SimpleData name="x">6678345.40230</SimpleData>
+		<SimpleData name="y">25506054.33590</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.1092194193772,60.2178141440143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP572</SimpleData>
+		<SimpleData name="osoite">Niittyläntie 12</SimpleData>
+		<SimpleData name="x">6678752.28130</SimpleData>
+		<SimpleData name="y">25496372.38280</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9345509434079,60.2214948448862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP571</SimpleData>
+		<SimpleData name="osoite">Kyläkirkontie 18</SimpleData>
+		<SimpleData name="x">6679147.82810</SimpleData>
+		<SimpleData name="y">25491269.87110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8424752662667,60.2249676694845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP570</SimpleData>
+		<SimpleData name="osoite">Kivihaantie 2b</SimpleData>
+		<SimpleData name="x">6677377.35550</SimpleData>
+		<SimpleData name="y">25494472.18360</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9003052769912,60.2091330487842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP569</SimpleData>
+		<SimpleData name="osoite">Hakaniemen torikatu 1</SimpleData>
+		<SimpleData name="x">6674052.13280</SimpleData>
+		<SimpleData name="y">25497335.96880</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.951997494718,60.1793165976699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP568</SimpleData>
+		<SimpleData name="osoite">Rauhankatu 13</SimpleData>
+		<SimpleData name="x">6673166.16410</SimpleData>
+		<SimpleData name="y">25497507.78130</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9551041918963,60.1713657339117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP567</SimpleData>
+		<SimpleData name="osoite">Kauppatori 0</SimpleData>
+		<SimpleData name="x">6672726.58590</SimpleData>
+		<SimpleData name="y">25497454.67190</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.954152955475,60.1674200003135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP565</SimpleData>
+		<SimpleData name="osoite">Fredrikintori 0</SimpleData>
+		<SimpleData name="x">6672138.97270</SimpleData>
+		<SimpleData name="y">25496659.73830</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9398440735532,60.1621401869989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP564</SimpleData>
+		<SimpleData name="osoite">Sandelsinkatu 1</SimpleData>
+		<SimpleData name="x">6674000.79690</SimpleData>
+		<SimpleData name="y">25495777.22270</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9239119318102,60.1788426923512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP563</SimpleData>
+		<SimpleData name="osoite">Hiekkarannantie 15</SimpleData>
+		<SimpleData name="x">6673291.55860</SimpleData>
+		<SimpleData name="y">25494695.95700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.904447675168,60.172464369272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP562</SimpleData>
+		<SimpleData name="osoite">Pohjoiskaari 25</SimpleData>
+		<SimpleData name="x">6672318.26170</SimpleData>
+		<SimpleData name="y">25493763.97270</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8876878304574,60.1637154517696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP561</SimpleData>
+		<SimpleData name="osoite">Mustikkamaankuja 1</SimpleData>
+		<SimpleData name="x">6674273.27730</SimpleData>
+		<SimpleData name="y">25499616.14060</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9930829156748,60.1813099729069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP560</SimpleData>
+		<SimpleData name="osoite">Hepokalliontie 25</SimpleData>
+		<SimpleData name="x">6672999.46480</SimpleData>
+		<SimpleData name="y">25504394.89060</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0791676586716,60.1698534963105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP559</SimpleData>
+		<SimpleData name="osoite">Takilatie 4</SimpleData>
+		<SimpleData name="x">6672372.04690</SimpleData>
+		<SimpleData name="y">25503477.37500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0626292255788,60.1642309872112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP558</SimpleData>
+		<SimpleData name="osoite">Iso Mustasaari C 45</SimpleData>
+		<SimpleData name="x">6670590.33980</SimpleData>
+		<SimpleData name="y">25499182.09380</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9852762568937,60.1482533307175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP557</SimpleData>
+		<SimpleData name="osoite">Iso Mustasaari C 31</SimpleData>
+		<SimpleData name="x">6670452.57420</SimpleData>
+		<SimpleData name="y">25499240.83590</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9863342304969,60.1470169331962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP549</SimpleData>
+		<SimpleData name="osoite">Kangasmäki 3</SimpleData>
+		<SimpleData name="x">6690581.91800</SimpleData>
+		<SimpleData name="y">25492484.54300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8639671037652,60.3276158994454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP539</SimpleData>
+		<SimpleData name="osoite">Koivurinne 9b</SimpleData>
+		<SimpleData name="x">6686465.17970</SimpleData>
+		<SimpleData name="y">25488136.72660</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7855126695785,60.2905636238131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP538</SimpleData>
+		<SimpleData name="osoite">Knaapinkuja 1</SimpleData>
+		<SimpleData name="x">6692719.71880</SimpleData>
+		<SimpleData name="y">25493183.99220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8765549448986,60.3468154147665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP537</SimpleData>
+		<SimpleData name="osoite">Kevättuulenpolku 0</SimpleData>
+		<SimpleData name="x">6693927.40230</SimpleData>
+		<SimpleData name="y">25494937.38670</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9082802740296,60.3576802653167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP535</SimpleData>
+		<SimpleData name="osoite">Karhuniityntie 1</SimpleData>
+		<SimpleData name="x">6685224.32810</SimpleData>
+		<SimpleData name="y">25495064.33590</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9107934985206,60.2795697822853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP548</SimpleData>
+		<SimpleData name="osoite">Ylästöntie 71</SimpleData>
+		<SimpleData name="x">6685362.33200</SimpleData>
+		<SimpleData name="y">25496016.64450</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9280026509617,60.2808188481901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP547</SimpleData>
+		<SimpleData name="osoite">Keimolantie 29</SimpleData>
+		<SimpleData name="x">6689670.48050</SimpleData>
+		<SimpleData name="y">25491336.28910</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8432225362987,60.3194126857645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP546</SimpleData>
+		<SimpleData name="osoite">Toivonrinne 1</SimpleData>
+		<SimpleData name="x">6686212.96480</SimpleData>
+		<SimpleData name="y">25488206.69530</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7867924274687,60.2883019771017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP545</SimpleData>
+		<SimpleData name="osoite">Rosenlundintie 1</SimpleData>
+		<SimpleData name="x">6688669.48830</SimpleData>
+		<SimpleData name="y">25503463.95310</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0626661797006,60.3105061971958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP544</SimpleData>
+		<SimpleData name="osoite">Repolantie 15</SimpleData>
+		<SimpleData name="x">6694140.98440</SimpleData>
+		<SimpleData name="y">25501856.91800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0336439123957,60.3596245596861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP543</SimpleData>
+		<SimpleData name="osoite">Rajatie 47</SimpleData>
+		<SimpleData name="x">6684332.12110</SimpleData>
+		<SimpleData name="y">25505071.66800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0916422147772,60.2715602987664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP542</SimpleData>
+		<SimpleData name="osoite">Pitkäsentie 10</SimpleData>
+		<SimpleData name="x">6684778.20700</SimpleData>
+		<SimpleData name="y">25505278.26560</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0953869657029,60.275561418778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP541</SimpleData>
+		<SimpleData name="osoite">Naakkakuja 21</SimpleData>
+		<SimpleData name="x">6694588.41410</SimpleData>
+		<SimpleData name="y">25503099.01560</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0561553142973,60.363632726278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP540</SimpleData>
+		<SimpleData name="osoite">Nousutie 6a</SimpleData>
+		<SimpleData name="x">6692191.89060</SimpleData>
+		<SimpleData name="y">25504229.01170</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0765808009555,60.3421132787027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP533</SimpleData>
+		<SimpleData name="osoite">Sorvatie 19</SimpleData>
+		<SimpleData name="x">6692760.11330</SimpleData>
+		<SimpleData name="y">25506238.44140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.1129860000459,60.3471872573153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP505</SimpleData>
+		<SimpleData name="osoite">Karviaistie 3</SimpleData>
+		<SimpleData name="x">6681557.92970</SimpleData>
+		<SimpleData name="y">25500434.87500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.007851989948,60.2466924321938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP588</SimpleData>
+		<SimpleData name="osoite">Suohaukantie 2</SimpleData>
+		<SimpleData name="x">6679605.26950</SimpleData>
+		<SimpleData name="y">25486964.44920</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7647603019328,60.2289583823452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP68</SimpleData>
+		<SimpleData name="osoite">Huhtamäentie 13</SimpleData>
+		<SimpleData name="x">6690663.88670</SimpleData>
+		<SimpleData name="y">25484429.78910</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.718167898553,60.328122529102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP67</SimpleData>
+		<SimpleData name="osoite">Espoonlahdenkatu 7</SimpleData>
+		<SimpleData name="x">6670861.02340</SimpleData>
+		<SimpleData name="y">25480898.12500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6561110634858,60.1502374017444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP14</SimpleData>
+		<SimpleData name="osoite">Karhusuonkuja 2</SimpleData>
+		<SimpleData name="x">6679237.54690</SimpleData>
+		<SimpleData name="y">25479488.91800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6298966785267,60.2253503313292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP23</SimpleData>
+		<SimpleData name="osoite">Lasilaakso 3</SimpleData>
+		<SimpleData name="x">6674505.32420</SimpleData>
+		<SimpleData name="y">25476595.34380</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.5782318496638,60.1827220482293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP2</SimpleData>
+		<SimpleData name="osoite">Purolehto 2</SimpleData>
+		<SimpleData name="x">6685130.86720</SimpleData>
+		<SimpleData name="y">25486204.22270</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7506646418341,60.2785269177516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP9</SimpleData>
+		<SimpleData name="osoite">Kottaraisentie 9</SimpleData>
+		<SimpleData name="x">6680388.58980</SimpleData>
+		<SimpleData name="y">25489413.30470</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8089111318366,60.2360598923008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP3</SimpleData>
+		<SimpleData name="osoite">Anfallintie 28</SimpleData>
+		<SimpleData name="x">6684749.92970</SimpleData>
+		<SimpleData name="y">25484468.77730</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7193291035948,60.275045365109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP8</SimpleData>
+		<SimpleData name="osoite">Paciuksenmäki 2</SimpleData>
+		<SimpleData name="x">6680848.53910</SimpleData>
+		<SimpleData name="y">25482855.56640</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6905072673724,60.2399648582415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP10</SimpleData>
+		<SimpleData name="osoite">Nupurintie 12</SimpleData>
+		<SimpleData name="x">6680661.26560</SimpleData>
+		<SimpleData name="y">25477586.56640</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.5954140141876,60.2380282222842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP6</SimpleData>
+		<SimpleData name="osoite">Sotilastorpantie 1</SimpleData>
+		<SimpleData name="x">6680933.25000</SimpleData>
+		<SimpleData name="y">25490687.25000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8318805609465,60.240979496071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP30</SimpleData>
+		<SimpleData name="osoite">Telamäenkuja 5</SimpleData>
+		<SimpleData name="x">6672562.83590</SimpleData>
+		<SimpleData name="y">25486873.87110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7635807884476,60.1657473488092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP35</SimpleData>
+		<SimpleData name="osoite">Nuottaniementie 15</SimpleData>
+		<SimpleData name="x">6670588.83980</SimpleData>
+		<SimpleData name="y">25485664.90630</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7419448536136,60.1479893841672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP4</SimpleData>
+		<SimpleData name="osoite">Laaksolahdentie 63</SimpleData>
+		<SimpleData name="x">6682172.66410</SimpleData>
+		<SimpleData name="y">25487222.46090</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7692543596189,60.2520096118292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP36</SimpleData>
+		<SimpleData name="osoite">Karpintie 4</SimpleData>
+		<SimpleData name="x">6669925.30470</SimpleData>
+		<SimpleData name="y">25482856.85160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6914518473609,60.1419258343261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP5</SimpleData>
+		<SimpleData name="osoite">Jupperinkuja 14</SimpleData>
+		<SimpleData name="x">6681911.42970</SimpleData>
+		<SimpleData name="y">25487720.62500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7782663218165,60.2496802938446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP1</SimpleData>
+		<SimpleData name="osoite">Suopurontie 9c</SimpleData>
+		<SimpleData name="x">6685994.80860</SimpleData>
+		<SimpleData name="y">25485610.04690</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7398644770869,60.286260369997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP17</SimpleData>
+		<SimpleData name="osoite">Kamreerintie 3</SimpleData>
+		<SimpleData name="x">6676927.29300</SimpleData>
+		<SimpleData name="y">25480957.07810</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6566045136831,60.2046865420882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP22</SimpleData>
+		<SimpleData name="osoite">Åminnenmäki 2</SimpleData>
+		<SimpleData name="x">6674443.65230</SimpleData>
+		<SimpleData name="y">25477518.95700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.5948823220631,60.1822204305243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP18</SimpleData>
+		<SimpleData name="osoite">Taavilankuja 3</SimpleData>
+		<SimpleData name="x">6676173.52340</SimpleData>
+		<SimpleData name="y">25486488.51560</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7564002004465,60.1981419381634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP32</SimpleData>
+		<SimpleData name="osoite">Ruukinmestarintie 10</SimpleData>
+		<SimpleData name="x">6672074.76560</SimpleData>
+		<SimpleData name="y">25479288.04690</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6270023121528,60.1610526640226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP33</SimpleData>
+		<SimpleData name="osoite">Kattilalaaksontie 0</SimpleData>
+		<SimpleData name="x">6671721.76170</SimpleData>
+		<SimpleData name="y">25480127.61330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6421559940364,60.1579260461534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP15</SimpleData>
+		<SimpleData name="osoite">Rintamaantie 3a</SimpleData>
+		<SimpleData name="x">6678223.23440</SimpleData>
+		<SimpleData name="y">25479562.48830</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6313263684823,60.2162503865319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP37</SimpleData>
+		<SimpleData name="osoite">Hanikka 18a</SimpleData>
+		<SimpleData name="x">6669038.00390</SimpleData>
+		<SimpleData name="y">25482375.09770</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6828578907944,60.1339415258337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP28</SimpleData>
+		<SimpleData name="osoite">Mustanlahdentie 15a</SimpleData>
+		<SimpleData name="x">6673148.17970</SimpleData>
+		<SimpleData name="y">25476844.62890</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.5828784662031,60.170555630547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP25</SimpleData>
+		<SimpleData name="osoite">Iltayönpolku 0</SimpleData>
+		<SimpleData name="x">6673183.88670</SimpleData>
+		<SimpleData name="y">25485101.50390</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7316130052153,60.1712607073196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP26</SimpleData>
+		<SimpleData name="osoite">Nöykkiönkatu 44</SimpleData>
+		<SimpleData name="x">6673482.07810</SimpleData>
+		<SimpleData name="y">25481261.93750</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.6624194447742,60.1737789735896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP24</SimpleData>
+		<SimpleData name="osoite">Kaupinkalliontie 10</SimpleData>
+		<SimpleData name="x">6673865.19530</SimpleData>
+		<SimpleData name="y">25489068.75000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8030432527029,60.1775011423951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP16</SimpleData>
+		<SimpleData name="osoite">Impilahdentie 18</SimpleData>
+		<SimpleData name="x">6677413.81640</SimpleData>
+		<SimpleData name="y">25489384.73830</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8085512393745,60.2093596169488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP12</SimpleData>
+		<SimpleData name="osoite">Läkkisepänkuja 1</SimpleData>
+		<SimpleData name="x">6678670.33590</SimpleData>
+		<SimpleData name="y">25489578.98440</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.8119899535333,60.2206423017544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HSY_Vesipostit">
+		<SimpleData name="tunniste">VVP7</SimpleData>
+		<SimpleData name="osoite">Luuvantie 1</SimpleData>
+		<SimpleData name="x">6680712.61330</SimpleData>
+		<SimpleData name="y">25487431.50000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7731199386106,60.2389117755124</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
