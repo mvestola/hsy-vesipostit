@@ -40,6 +40,19 @@ This repository contains following files which you might be able to import to e.
 
 To convert between different file formats, like Shapefile, KML, GPX and OSM, see [development document](./development.md).
 
+## Find HSY water posts from OSM
+
+Use [overpass turbo](https://overpass-turbo.eu/). This query: https://overpass-turbo.eu/s/19p7
+```
+/* 
+ * HSY vesipisteet
+*/
+node
+  [amenity=drinking_water][operator=HSY]
+  ({{bbox}});
+out;
+```
+
 ## Links
 
 * [Discussion in OSM Finnish forum](https://forum.openstreetmap.org/viewtopic.php?id=73183)
