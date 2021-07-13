@@ -42,7 +42,14 @@ HSY original data is copied to `hsy-original-data` folder. There are two formats
 * MapInfo TAB file `*.tab`
 * ESRI Shapefile `*.shp`
 
-Shapefile converted once to KML using tool: https://mygeodata.cloud/converter/shp-to-kml
+Original shapefile converted once to KML using tool: https://mygeodata.cloud/converter/shp-to-kml (allows 3 free conversions per month). 
+
+Can also use `ogr2ogr` tool locally (above service apparently uses `ogr2ogr` also in the background):
+```
+sudo apt install gdal-bin
+cd hsy-original-data/
+./convert-to-kml.sh
+```
 
 ## Development
 
