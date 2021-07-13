@@ -33,6 +33,7 @@ Images are uploaded to Google Maps (multiple images), [Mapillary](https://www.ma
 This repository contains following files which you might be able to import to e.g. your navigator in order to show all water posts in your device:
 * [KML file](google-maps-export.kml) exported from Google Maps
 * [GPX file](google-maps-export.gpx) converted from KML file
+* [GPX file with shorter POI names](google-maps-export-garmin-edge-800.gpx) Same as above GPX file but with shorted names. Intended mainly for Garmin Edge 800 which does not work well with long POI names like: "HSY vesiposti: Luuvantie 1", it will truncate these to "HSY vesiposti 1", "HSY vesiposti 2" etc. Thus use shorter POI names like: HSY: Luuvantie 1, which seems to work in Garmin Edge 800
 * [OSM file](google-maps-export.osm) converted from KML file
 
 ## Original data
