@@ -31,7 +31,6 @@ Images are uploaded to Google Maps (multiple images), [Mapillary](https://www.ma
 ## Repository usage
 
 This repository contains following files which you might be able to import to e.g. your navigator in order to show all water posts in your device:
-* [KMZ file](google-maps-export.kmz) exported from Google Maps
 * [KML file](google-maps-export.kml) exported from Google Maps
 * [GPX file](google-maps-export.gpx) converted from KML file
 * [OSM file](google-maps-export.osm) converted from KML file
@@ -58,11 +57,11 @@ sudo apt install libsaxonb-java gpsbabel
 
 Note that you can not use commonly used `xsltproc` since it is limited to XSLT 1.0. Saxon supports XSLT 2.0.
 
-### Export Google Maps to KML/KMZ
+### Export Google Maps to KML
 
 1. Open [HSY water posts in Google Maps based map](https://www.google.com/maps/d/viewer?mid=1WeNhhtc9n4ypJ_X3bz5KpLppR5JNsk9A&usp=sharing) in public read mode (not edit mode)
 2. Click three dots from upper left corner
-3. Choose load as KML
+3. Choose load as KML (not as zipped KMZ)
 
 ### Transform KML file exported from Google Maps to OSM file
 
