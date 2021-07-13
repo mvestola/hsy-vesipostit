@@ -84,7 +84,7 @@ Also adding `icon_symbol` field to show T/N for handle type in uMap.
 ./kml-to-umap-compatible-kml.sh
 ```
 
-Import data to uMap and replace layer contents. Take backup first in uMap, shape colors will reset and those need to be updated manually.
+Import data to uMap as KML and replace layer contents. Take backup first in uMap, shape colors will reset and those need to be updated manually.
 
 ### Upload Mapillary images
 
