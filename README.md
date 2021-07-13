@@ -75,6 +75,17 @@ Note that you can not use commonly used `xsltproc` since it is limited to XSLT 1
 ./kml-to-gpx.sh
 ```
 
+### Transform KML file exported from Google Maps to uMap compatible KML file
+
+Google Maps contains field names with spaces and ä/ö/å characters which do not seem to work in uMap. Thus need to convert those field names to English ones.
+Also adding `icon_symbol` field to show T/N for handle type in uMap.
+
+```
+./kml-to-umap-compatible-kml.sh
+```
+
+Import data to uMap and replace layer contents. Take backup first in uMap, shape colors will reset and those need to be updated manually.
+
 ### Upload Mapillary images
 
 Install [Mapillary tools](https://github.com/mapillary/mapillary_tools). Go to folder where new images are and execute:
