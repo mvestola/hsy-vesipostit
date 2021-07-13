@@ -42,6 +42,8 @@ HSY original data is copied to `hsy-original-data` folder. There are two formats
 * MapInfo TAB file `*.tab`
 * ESRI Shapefile `*.shp`
 
+Shapefile converted once to KML using tool: https://mygeodata.cloud/converter/shp-to-kml
+
 ## Development
 
 Below instructions are written for Ubuntu Linux.
