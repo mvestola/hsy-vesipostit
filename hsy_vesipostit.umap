@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "https://umap.openstreetmap.fr/en/map/hsy-vesipostit_635042#11/60.2490/24.8456",
+  "uri": "https://umap.openstreetmap.fr/fi/map/hsy-vesipostit_635042#11/60.2546/24.9918",
   "properties": {
     "easing": true,
     "tilelayersControl": null,
@@ -62,8 +62,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      24.845581054687504,
-      60.24901231027085
+      24.991836547851562,
+      60.25463395700811
     ]
   },
   "layers": [
