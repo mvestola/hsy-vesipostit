@@ -26,7 +26,7 @@ The main idea is that the primary source of the data is the Google Maps based ma
 
 ## Water post images
 
-Images are uploaded to Google Maps (multiple images), [Mapillary](https://www.mapillary.com/) (primary image only) and [Gifyu](https://gifyu.com/album/gMS) (multiple images). Gifyu images has advantage that you can generate image url based on the HSY id. Gifyu image urls are: `https://s6.gifyu.com/images/HSYID_1.jpg`, e.g. https://s6.gifyu.com/images/VVP1_1.jpg . If there are multiple images, image url like this might also exist `https://s6.gifyu.com/images/HSYID_2.jpg`. See all image urls from [image url doc](./image-urls.md).
+Images are uploaded to Google Maps (multiple images), [Mapillary](https://www.mapillary.com/) (primary image only) and [Gifyu](https://gifyu.com/album/gMS) (multiple images). Gifyu images has advantage that you can generate image url based on the HSY id. Gifyu image urls are: `https://s6.gifyu.com/images/HSYID_1.jpg`, e.g. https://s6.gifyu.com/images/VVP1_1.jpg . If there are multiple images, image url like this might also exist `https://s6.gifyu.com/images/HSYID_2.jpg`. See all image urls from [image url doc](./docs/image-urls.md).
 
 ## Most important repository files
 
@@ -38,7 +38,7 @@ This repository contains following files which you might be able to import to e.
 
 ## Development
 
-To convert between different file formats, like Shapefile, KML, GPX and OSM, see [development document](./development.md).
+To convert between different file formats, like Shapefile, KML, GPX and OSM, see [development document](./docs/development.md).
 
 ## Find HSY water posts from OSM
 
