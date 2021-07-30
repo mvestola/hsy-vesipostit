@@ -214,14 +214,14 @@
       <tag k="addr:city" v="Helsinki"/>
       <tag k="ref" v="VVP578"/>
       <tag k="operational_status:note"
-           v="Vettä tulee hieman heikolla paineella, mutta kyllä tällä juomapullon helposti täyttää."/>
+           v="Vettä tulee heikolla paineella ja joskus todella heikosti. Nosta kahva nopeasti ja voimakkaasti ylös, jolloin vettä tulee yleensä parhaiten."/>
       <tag k="colour" v="green"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
       <tag k="material" v="steel"/>
       <tag k="addr:street" v="Tattariharjuntie"/>
       <tag k="addr:housenumber" v="51"/>
-      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="operational_status:date" v="2021-07-26"/>
       <tag k="mapillary" v="1925647870932026"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP578_1.jpg"/>
       <tag k="access" v="yes"/>
@@ -393,7 +393,7 @@
       <tag k="material" v="steel"/>
       <tag k="addr:street" v="Korkeakoskenkuja"/>
       <tag k="addr:housenumber" v="1"/>
-      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="operational_status:date" v="2021-07-26"/>
       <tag k="mapillary" v="250240289843790"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP573_1.jpg"/>
       <tag k="access" v="yes"/>
@@ -427,7 +427,7 @@
       <tag k="material" v="steel"/>
       <tag k="addr:street" v="Niittyläntie"/>
       <tag k="addr:housenumber" v="12"/>
-      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="operational_status:date" v="2021-07-26"/>
       <tag k="mapillary" v="896846164518457"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP572_1.jpg"/>
       <tag k="access" v="yes"/>
@@ -496,7 +496,7 @@
       <tag k="material" v="steel"/>
       <tag k="addr:street" v="Kivihaantie"/>
       <tag k="addr:housenumber" v="2b"/>
-      <tag k="operational_status:date" v="2021-07-06"/>
+      <tag k="operational_status:date" v="2021-07-25"/>
       <tag k="mapillary" v="234677648482675"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP570_1.jpg"/>
       <tag k="access" v="yes"/>
@@ -1455,7 +1455,7 @@
       <tag k="material" v="steel"/>
       <tag k="addr:street" v="Karviaistie"/>
       <tag k="addr:housenumber" v="3"/>
-      <tag k="operational_status:date" v="2021-07-07"/>
+      <tag k="operational_status:date" v="2021-07-26"/>
       <tag k="mapillary" v="969191837226079"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP505_1.jpg"/>
       <tag k="access" v="yes"/>
@@ -2405,14 +2405,15 @@
       <tag k="name" v="HSY vesiposti: Kaupinkalliontie 10"/>
       <tag k="addr:city" v="Espoo"/>
       <tag k="ref" v="VVP24"/>
-      <tag k="operational_status:note" v="Toimii"/>
+      <tag k="operational_status:note"
+           v="Kahvaa saa pitää aika kauan ylhäällä, että vettä tulee, vedenpaine aika pieni"/>
       <tag k="colour" v="silver"/>
       <tag k="handle" v="lift_handle"/>
       <tag k="operational_status" v="operational"/>
       <tag k="material" v="steel"/>
       <tag k="addr:street" v="Kaupinkalliontie"/>
       <tag k="addr:housenumber" v="10"/>
-      <tag k="operational_status:date" v="2021-07-08"/>
+      <tag k="operational_status:date" v="2021-07-25"/>
       <tag k="mapillary" v="937935536782496"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP24_1.jpg"/>
       <tag k="access" v="yes"/>
