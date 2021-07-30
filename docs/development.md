@@ -20,15 +20,25 @@ Note that you can not use commonly used `xsltproc` since it is limited to XSLT 1
 2. Click three dots from upper left corner
 3. Choose load as KML (not as zipped KMZ)
 
+### Update all files from updated KML file
+
+```
+cd scripts
+./update-all.sh
+```
+
+
 ### Transform KML file exported from Google Maps to OSM file
 
 ```
+cd scripts
 ./kml-to-osm.sh
 ```
 
 ### Transform KML file exported from Google Maps to GPX file
 
 ```
+cd scripts
 ./kml-to-gpx.sh
 ```
 
@@ -38,6 +48,7 @@ Google Maps contains field names with spaces and ä/ö/å characters which do no
 Also adding `icon_symbol` field to show T/N for handle type in uMap.
 
 ```
+cd scripts
 ./kml-to-umap-compatible-kml.sh
 ```
 
