@@ -134,7 +134,7 @@
                             </tag>
                         </xsl:matching-substring>
                     </xsl:analyze-string>
-                    <tag k="operational_status:date">
+                    <tag k="check_date">
                         <xsl:attribute name="v">
                             <xsl:value-of select="$statusDateISO"/>
                         </xsl:attribute>
