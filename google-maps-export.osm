@@ -84,7 +84,7 @@
       <tag k="material" v="steel"/>
       <tag k="addr:street" v="Arttolantie"/>
       <tag k="addr:housenumber" v="20"/>
-      <tag k="check_date" v="2021-07-07"/>
+      <tag k="check_date" v="2021-08-10"/>
       <tag k="mapillary" v="2903098486619747"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP582_1.jpg"/>
       <tag k="access" v="yes"/>
@@ -1070,14 +1070,15 @@
       <tag k="name" v="HSY vesiposti: Karhuniityntie 1"/>
       <tag k="addr:city" v="Vantaa"/>
       <tag k="ref" v="VVP535"/>
-      <tag k="operational_status:note" v="T-kahva puuttui 4.7.2021"/>
+      <tag k="operational_status:note"
+           v="Toimii, T-kahva puuttui 4.7.2021, mutta uusi kahva tuotu tilalle."/>
       <tag k="colour" v="black"/>
       <tag k="handle" v="twist_handle"/>
-      <tag k="operational_status" v="broken"/>
+      <tag k="operational_status" v="operational"/>
       <tag k="material" v="plastic"/>
       <tag k="addr:street" v="Karhuniityntie"/>
       <tag k="addr:housenumber" v="1"/>
-      <tag k="check_date" v="2021-07-04"/>
+      <tag k="check_date" v="2021-08-10"/>
       <tag k="mapillary" v="178058024303261"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP535_1.jpg"/>
       <tag k="access" v="yes"/>
@@ -1275,14 +1276,15 @@
       <tag k="name" v="HSY vesiposti: Rajatie 47"/>
       <tag k="addr:city" v="Vantaa"/>
       <tag k="ref" v="VVP543"/>
-      <tag k="operational_status:note" v="Ei toimi, T-kahva puuttuu"/>
+      <tag k="operational_status:note"
+           v="Toimii, T-kahva puuttui 7.7.2021, mutta uusi kahva tuotu tilalle."/>
       <tag k="colour" v="black"/>
       <tag k="handle" v="twist_handle"/>
-      <tag k="operational_status" v="broken"/>
+      <tag k="operational_status" v="operational"/>
       <tag k="material" v="plastic"/>
       <tag k="addr:street" v="Rajatie"/>
       <tag k="addr:housenumber" v="47"/>
-      <tag k="check_date" v="2021-07-07"/>
+      <tag k="check_date" v="2021-08-10"/>
       <tag k="mapillary" v="233606725267994"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP543_1.jpg"/>
       <tag k="access" v="yes"/>
@@ -1316,7 +1318,7 @@
       <tag k="material" v="plastic"/>
       <tag k="addr:street" v="Pitkäsentie"/>
       <tag k="addr:housenumber" v="10"/>
-      <tag k="check_date" v="2021-07-07"/>
+      <tag k="check_date" v="2021-08-10"/>
       <tag k="mapillary" v="207672337803368"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP542_1.jpg"/>
       <tag k="access" v="yes"/>

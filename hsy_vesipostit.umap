@@ -42,7 +42,7 @@
       "name": "OpenStreetMap",
       "maxZoom": 19,
       "minZoom": 0,
-      "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL",
+      "attribution": "Map data ©  [[http://osm.org/copyright|OpenStreetMap contributors]]",
       "url_template": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
     },
     "licence": {
@@ -174,7 +174,7 @@
             "icon_symbol": "N",
             "status": "Ei toimi",
             "status_color": "Red",
-            "status_date": "07.07.2021",
+            "status_date": "10.08.2021",
             "color": "Vihreä",
             "material": "Teräs",
             "extra_info": "Ei toimi, nostokahva kokonaan kateissa.",
@@ -629,17 +629,14 @@
             "city": "Vantaa",
             "handle_type": "T-kahva",
             "icon_symbol": "T",
-            "status": "Ei toimi",
-            "status_color": "Red",
-            "status_date": "04.07.2021",
+            "status": "Toimii",
+            "status_color": "DarkBlue",
+            "status_date": "10.08.2021",
             "color": "Musta",
             "material": "Muovi",
-            "extra_info": "T-kahva puuttui 4.7.2021",
+            "extra_info": "Toimii, T-kahva puuttui 4.7.2021, mutta uusi kahva tuotu tilalle.",
             "mapillary": "https://www.mapillary.com/app/?pKey=178058024303261",
-            "gx_media_links": "https://doc-0s-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/vf3b5clecgsjfocags55vtsc50/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5Zfqk0ZkQ776Nt9xGnZWIyeDCZ47OcIWIqqzzSUFLua0_6dEzCYkLKF_tDP8QZiqCbYqhpvxd2f0Z6jdaickPxpm6fxrTeVifrtNNY51RkDu51iH4m6RUA2YB-NL4Yt_J_8IPrxkg9mBIKlNRBWVX7QWxvbQxCNp2tw0LaEA2LgXgj-zeiipJxdm_BWVzwmE-Ti?session=0&fife https://doc-10-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/t5vp93ak6o07arbm7qd70gvm8c/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5YAR35J_u5CzPlqnOJEDCNqKsDEIZirFnBalFXMGSOu_iHb66vaX3botqzDV96FKQEpUbsRKqcGxiglTmjCaYN6EneunHFpRatJtGP9-giJU3q375a9oP4kTCZI8hHWNqFf0IHclj32x4KIyKZ1IrQEI8YMoNXbeAdMACgHLlfc7z3FIakJWTmRBwA4CcfqDReN?session=0&fife",
-            "_umap_options": {
-              "color": "Red"
-            }
+            "gx_media_links": "https://doc-0s-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/vf3b5clecgsjfocags55vtsc50/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5Zfqk0ZkQ776Nt9xGnZWIyeDCZ47OcIWIqqzzSUFLua0_6dEzCYkLKF_tDP8QZiqCbYqhpvxd2f0Z6jdaickPxpm6fxrTeVifrtNNY51RkDu51iH4m6RUA2YB-NL4Yt_J_8IPrxkg9mBIKlNRBWVX7QWxvbQxCNp2tw0LaEA2LgXgj-zeiipJxdm_BWVzwmE-Ti?session=0&fife https://doc-10-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/t5vp93ak6o07arbm7qd70gvm8c/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5YAR35J_u5CzPlqnOJEDCNqKsDEIZirFnBalFXMGSOu_iHb66vaX3botqzDV96FKQEpUbsRKqcGxiglTmjCaYN6EneunHFpRatJtGP9-giJU3q375a9oP4kTCZI8hHWNqFf0IHclj32x4KIyKZ1IrQEI8YMoNXbeAdMACgHLlfc7z3FIakJWTmRBwA4CcfqDReN?session=0&fife"
           },
           "geometry": {
             "type": "Point",
@@ -1612,7 +1609,7 @@
             "icon_symbol": "T",
             "status": "Toimii",
             "status_color": "DarkBlue",
-            "status_date": "07.07.2021",
+            "status_date": "10.08.2021",
             "color": "Musta",
             "material": "Muovi",
             "extra_info": "",
@@ -1730,17 +1727,14 @@
             "city": "Vantaa",
             "handle_type": "T-kahva",
             "icon_symbol": "T",
-            "status": "Ei toimi",
-            "status_color": "Red",
-            "status_date": "07.07.2021",
+            "status": "Toimii",
+            "status_color": "DarkBlue",
+            "status_date": "10.08.2021",
             "color": "Musta",
             "material": "Muovi",
-            "extra_info": "Ei toimi, T-kahva puuttuu",
+            "extra_info": "Toimii, T-kahva puuttui 7.7.2021, mutta uusi kahva tuotu tilalle.",
             "mapillary": "https://www.mapillary.com/app/?pKey=233606725267994",
-            "gx_media_links": "https://doc-00-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/v751h9igv5ke1fmbh3upg6hbbk/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5axQvzHeemaf0wkzqYRy2dem2Gub51d_617zrJxWaxMEt7HXm6J4UtTqKY87QcCVL0MAmfvPXxmr3TRRVASyAi_C8An6bwaFhecHEbcYxA-Tb-ik7XZpVsiAEJ0ix2hFOokiPoBrqqIlkrpnYJsqUhqjk4-ndpFqXwIPHOhBFTDZZxNRn53hrtse9cSGn7GIZy3?session=0&fife https://doc-00-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/c99uo3190nc4tcgvdp9f97iatk/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5aMoYpOwYAlGsOayb5zakAdU_HBmgUni14GfI0wwNX4sq7Av2tKRAUZ8i_UMmQYkG8fM2CwaXylFRs2eyA8rGcaLm8HBi91-SxLFqtT91wZBGQA3A8Z9TcTirmXYCvATk4cULR6W05yHO55qgzdYwqnwGWRf_vO7OageWQKsC_rpSbvzsi3WLpYJv1V8gKub1Q-?session=0&fife",
-            "_umap_options": {
-              "color": "Red"
-            }
+            "gx_media_links": "https://doc-00-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/v751h9igv5ke1fmbh3upg6hbbk/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5axQvzHeemaf0wkzqYRy2dem2Gub51d_617zrJxWaxMEt7HXm6J4UtTqKY87QcCVL0MAmfvPXxmr3TRRVASyAi_C8An6bwaFhecHEbcYxA-Tb-ik7XZpVsiAEJ0ix2hFOokiPoBrqqIlkrpnYJsqUhqjk4-ndpFqXwIPHOhBFTDZZxNRn53hrtse9cSGn7GIZy3?session=0&fife https://doc-00-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/c99uo3190nc4tcgvdp9f97iatk/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5aMoYpOwYAlGsOayb5zakAdU_HBmgUni14GfI0wwNX4sq7Av2tKRAUZ8i_UMmQYkG8fM2CwaXylFRs2eyA8rGcaLm8HBi91-SxLFqtT91wZBGQA3A8Z9TcTirmXYCvATk4cULR6W05yHO55qgzdYwqnwGWRf_vO7OageWQKsC_rpSbvzsi3WLpYJv1V8gKub1Q-?session=0&fife"
           },
           "geometry": {
             "type": "Point",
