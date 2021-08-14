@@ -2213,17 +2213,14 @@
             "city": "Vantaa",
             "handle_type": "T-kahva",
             "icon_symbol": "T",
-            "status": "Ei toimi",
-            "status_color": "Red",
-            "status_date": "05.07.2021",
+            "status": "Toimii",
+            "status_color": "DarkBlue",
+            "status_date": "14.08.2021",
             "color": "Musta",
             "material": "Muovi",
-            "extra_info": "T-kahva puuttui 05.07.2021",
+            "extra_info": "Toimii, mutta kahvaa saa kääntää kymmenkunta kierrosta vastapäivään. T-kahva puuttui 05.07.2021, mutta uusi tuotu tilalle. Uusi kahva ei lähde irti, joten kupu ei mene tiukasti kiinni.",
             "mapillary": "https://www.mapillary.com/app/?pKey=545093723478070",
-            "gx_media_links": "https://doc-08-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/dh3lpqf0h28v5makta2ish0seo/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5YhR2SJ4z3eZ3qN6jGfUJCTyS-4doDMkbFsvfNLoMtRV0JsAazj-2j-vnLqHmtzjS2nsfvwB08fL7b7DOq5U7RSP7XPZBZC-PQQxSCydaV0ZPyn5hERUW6hY7U48igGnhS3F8mdkocBnD9o4Coa3pfD_s3AtqO3ngvk37lu8kPhNRUeQqcUK0LQCux5vDtgkte1?session=0&fife https://doc-0o-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/faem2gitfrhc92u1c6lmirsed0/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5ZUgFv0tEM6tg7X2qiu5qURwzuZBiNWmgq8VFixEjexuMIag-V6fIVgLV8Di4ST7nuS4pgrQ3Ht4gunrS-8qE5T1I9nla42AQSXL09Ve4Q9cUttwmC3AtiM5P1pNI7DNIQsDxr1jP1OrenZTm6uovfssOz8XYhPY5Y1dt8F-asErQzQ75dluyqGnmMQiyGXGsmk?session=0&fife",
-            "_umap_options": {
-              "color": "Red"
-            }
+            "gx_media_links": "https://doc-08-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/dh3lpqf0h28v5makta2ish0seo/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5YhR2SJ4z3eZ3qN6jGfUJCTyS-4doDMkbFsvfNLoMtRV0JsAazj-2j-vnLqHmtzjS2nsfvwB08fL7b7DOq5U7RSP7XPZBZC-PQQxSCydaV0ZPyn5hERUW6hY7U48igGnhS3F8mdkocBnD9o4Coa3pfD_s3AtqO3ngvk37lu8kPhNRUeQqcUK0LQCux5vDtgkte1?session=0&fife https://doc-0o-c0-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/faem2gitfrhc92u1c6lmirsed0/1626124500000/-GJh-8fVsLNR5dhqiFIXEEb_v_s8E3Gs/*/6AOlzF5ZUgFv0tEM6tg7X2qiu5qURwzuZBiNWmgq8VFixEjexuMIag-V6fIVgLV8Di4ST7nuS4pgrQ3Ht4gunrS-8qE5T1I9nla42AQSXL09Ve4Q9cUttwmC3AtiM5P1pNI7DNIQsDxr1jP1OrenZTm6uovfssOz8XYhPY5Y1dt8F-asErQzQ75dluyqGnmMQiyGXGsmk?session=0&fife"
           },
           "geometry": {
             "type": "Point",

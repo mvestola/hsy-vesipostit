@@ -1173,14 +1173,15 @@
       <tag k="name" v="HSY vesiposti: Toivonrinne 1"/>
       <tag k="addr:city" v="Vantaa"/>
       <tag k="ref" v="VVP546"/>
-      <tag k="operational_status:note" v="T-kahva puuttui 05.07.2021"/>
+      <tag k="operational_status:note"
+           v="Toimii, mutta kahvaa saa kääntää kymmenkunta kierrosta vastapäivään. T-kahva puuttui 05.07.2021, mutta uusi tuotu tilalle."/>
       <tag k="colour" v="black"/>
       <tag k="handle" v="twist_handle"/>
-      <tag k="operational_status" v="broken"/>
+      <tag k="operational_status" v="operational"/>
       <tag k="material" v="plastic"/>
       <tag k="addr:street" v="Toivonrinne"/>
       <tag k="addr:housenumber" v="1"/>
-      <tag k="check_date" v="2021-07-05"/>
+      <tag k="check_date" v="2021-08-14"/>
       <tag k="mapillary" v="545093723478070"/>
       <tag k="image" v="https://s6.gifyu.com/images/VVP546_1.jpg"/>
       <tag k="access" v="yes"/>
