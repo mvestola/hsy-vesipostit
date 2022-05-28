@@ -70,7 +70,8 @@ All HSY water post images uploaded to Gifyu, filename is based on HSY water post
 * https://s6.gifyu.com/images/VVP560_1.jpg
 * https://s6.gifyu.com/images/VVP561_1.jpg
 * https://s6.gifyu.com/images/VVP562_1.jpg
-* https://s6.gifyu.com/images/VVP563_1.jpg
+* https://s8.gifyu.com/images/VVP563_1.jpg
+* https://s8.gifyu.com/images/VVP563_2.jpg
 * https://s6.gifyu.com/images/VVP564_1.jpg
 * https://s6.gifyu.com/images/VVP565_1.jpg
 * https://s6.gifyu.com/images/VVP567_1.jpg
