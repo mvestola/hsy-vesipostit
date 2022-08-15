@@ -14,6 +14,7 @@
                 <xsl:variable name="color" select="kml:ExtendedData/kml:Data[@name='Väri']/kml:value"/>
                 <xsl:variable name="city" select="kml:ExtendedData/kml:Data[@name='Kaupunki']/kml:value"/>
                 <xsl:variable name="hsyId" select="kml:ExtendedData/kml:Data[@name='HSY tunniste']/kml:value"/>
+                <xsl:variable name="image1" select="kml:ExtendedData/kml:Data[@name='Kuva 1']/kml:value"/>
                 <xsl:variable name="type" select="kml:ExtendedData/kml:Data[@name='Tyyppi']/kml:value"/>
                 <xsl:variable name="status" select="kml:ExtendedData/kml:Data[@name='Tila']/kml:value"/>
                 <xsl:variable name="statusDate" select="kml:ExtendedData/kml:Data[@name='Tila todettu']/kml:value"/>
@@ -63,6 +64,9 @@
                     </tag>
                     <tag k="colour">
                         <xsl:choose>
+                            <xsl:when test="$color = 'Turkoosi'">
+                                <xsl:attribute name="v">turquoise</xsl:attribute>
+                            </xsl:when>
                             <xsl:when test="$color = 'Hopea'">
                                 <xsl:attribute name="v">silver</xsl:attribute>
                             </xsl:when>
@@ -79,6 +83,9 @@
                     </tag>
                     <tag k="handle">
                         <xsl:choose>
+                            <xsl:when test="$type = 'Jalkapedaali'">
+                                <xsl:attribute name="v">foot_pedal</xsl:attribute>
+                            </xsl:when>
                             <xsl:when test="$type = 'Nostokahva'">
                                 <xsl:attribute name="v">lift_handle</xsl:attribute>
                             </xsl:when>
@@ -147,7 +154,7 @@
                     </tag>
                     <tag k="image">
                         <xsl:attribute name="v">
-                            <xsl:value-of select="concat('https://s6.gifyu.com/images/', $hsyId, '_1.jpg')" />
+                            <xsl:value-of select="normalize-space($image1)"/>
                         </xsl:attribute>
                     </tag>
                     <tag k="access" v="yes"/>
@@ -161,11 +168,7 @@
                     <tag k="operator" v="HSY"/>
                     <tag k="seasonal" v="spring;summer;autumn"/>
                     <tag k="source" v="survey"/>
-                    <tag k="source:location">
-                        <xsl:attribute name="v">
-                            <xsl:value-of select="$hsySource"/>
-                        </xsl:attribute>
-                    </tag>
+                    <tag k="source:location" v="survey"/>
                     <tag k="source:ref">
                         <xsl:attribute name="v">
                             <xsl:value-of select="$hsySource"/>

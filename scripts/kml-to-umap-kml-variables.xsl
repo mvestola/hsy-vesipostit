@@ -46,6 +46,16 @@
                     <xsl:text>hsy_id</xsl:text>
                 </xsl:attribute>
             </xsl:when>
+            <xsl:when test=". = 'Kuva 1'">
+                <xsl:attribute name="name">
+                    <xsl:text>image1</xsl:text>
+                </xsl:attribute>
+            </xsl:when>
+            <xsl:when test=". = 'Kuva 2'">
+                <xsl:attribute name="name">
+                    <xsl:text>image2</xsl:text>
+                </xsl:attribute>
+            </xsl:when>
             <xsl:when test=". = 'Osoite'">
                 <xsl:attribute name="name">
                     <xsl:text>address</xsl:text>

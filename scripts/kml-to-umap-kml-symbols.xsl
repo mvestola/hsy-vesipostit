@@ -12,6 +12,11 @@
     <xsl:template match="kml:ExtendedData/kml:Data[@name='Tyyppi']">
         <xsl:copy-of select="."/>
         <xsl:choose>
+            <xsl:when test="kml:value = 'Jalkapedaali'">
+                <Data name="icon_symbol">
+                    <value>J</value>
+                </Data>
+            </xsl:when>
             <xsl:when test="kml:value = 'Nostokahva'">
                 <Data name="icon_symbol">
                     <value>N</value>
