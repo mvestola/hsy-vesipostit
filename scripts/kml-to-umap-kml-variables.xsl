@@ -48,12 +48,12 @@
             </xsl:when>
             <xsl:when test=". = 'Kuva 1'">
                 <xsl:attribute name="name">
-                    <xsl:text>image1</xsl:text>
+                    <xsl:text>image_1_prefix</xsl:text>
                 </xsl:attribute>
             </xsl:when>
             <xsl:when test=". = 'Kuva 2'">
                 <xsl:attribute name="name">
-                    <xsl:text>image2</xsl:text>
+                    <xsl:text>image_2_prefix</xsl:text>
                 </xsl:attribute>
             </xsl:when>
             <xsl:when test=". = 'Osoite'">
